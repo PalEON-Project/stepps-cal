@@ -1,1066 +1,1066 @@
-"","taxon.name","variable.units","variable.element","variable.context","taxon.group","ecological.group","alias","match"
-"1","Abies","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"2","Acer negundo","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"3","Acer saccharum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"4","Alnus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"5","Amaranthaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"6","Ambrosia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"7","Arceuthobium","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"8","Artemisia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"9","Asteraceae subf. Asteroideae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"10","Betula","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"11","Brassicaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"12","Carya","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"13","Corylus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"14","Cupressaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"15","Cyclachaena xanthiifolia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"16","Cyperaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"17","Dalea candida-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"18","Equisetum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"19","Fraxinus americana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"20","Indeterminable","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
-"21","Myriophyllum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"22","Ostrya/Carpinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"23","Picea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"24","Pinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"25","Poaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"26","Populus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"27","Potamogetonaceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"28","Quercus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"29","Rumex","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"30","Salix","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"31","Sample quantity","ml","volume examined",NA,"Laboratory analyses","LABO",NA,NA
-"32","Sparganium-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"33","Thalictrum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"34","Tilia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"35","Typha latifolia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"36","Ulmus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"37","Unknown","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
-"38","Vitis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"39","Apiaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"40","Fraxinus nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"41","Iva annua","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"42","Juglans cinerea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"43","Juglans nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"44","Platanus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"45","Zea mays","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"46","Ephedra nevadensis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"47","Morus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"48","Plantago","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"49","Sarcobatus vermiculatus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"50","Celtis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"51","Dryopteris-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"52","Pteridium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"53","Amorpha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"54","Dalea purpurea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"55","Myrica","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"56","Tsuga","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"57","Xanthium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"58","Asteraceae subf. Cichorioideae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"59","Humulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"60","Castanea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"61","Larix","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"62","Lemna","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"63","Rosaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"64","Ephedra torreyana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"65","Sphagnum","NISP","spore",NA,"Bryophytes","AQBR",NA,NA
-"66","Sagittaria","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"67","Persicaria maculosa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"68","Alnus incana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"69","Alnus viridis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"70","Fabaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"71","Fraxinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"72","Pediastrum","NISP","colony",NA,"Algae","ALGA",NA,NA
-"73","Poaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"74","Rosaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"75","Acer undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"76","Caryophyllaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"77","Fraxinus nigra-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"78","Juniperus/Thuja","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"79","Polygonaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"80","Dalea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"81","Populus balsamifera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"82","Ericaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"83","Sanguisorba canadensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"84","Botrychium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"85","Galium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"86","Fraxinus pennsylvanica","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"87","Urtica-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"88","Euphorbia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"89","Ephedra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"90","Saxifragaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"91","Shepherdia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"92","Fagus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"93","Polypodium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"94","Nyssa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"95","Potentilla","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"96","Menyanthes trifoliata","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"97","Ambrosia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"98","Pteridium-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"99","Nuphar","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"100","Lycopodium-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"101","Asteraceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"102","Ranunculus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"103","Epilobium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"104","Shepherdia canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"105","Liliaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"106","Selaginella","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"107","Polygonum sensu lato","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"108","Urtica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"109","Abies balsamea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"110","Acer saccharinum-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"111","Celtis occidentalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"112","Chenopodium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"113","Fraxinus pennsylvanica-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"114","Iva annua-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"115","Juglans cf. J. cinerea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"116","Juglans cf. J. nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"117","Laportea-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"118","Myriophyllum sibiricum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"119","Nymphaea","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"120","Populus tremuloides-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"121","Pteridium aquilinum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"122","Rhus/Toxicodendron cf. T. vernix","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"123","Tilia americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"124","Utricularia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"125","Humulus lupulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"126","Larix laricina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"127","Potamogeton","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"128","Athyrium filix-femina","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"129","cf. Gymnocarpium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"130","Chamaesyce","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"131","Cornus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"132","Lycopus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"133","Rugubivesiculites","NISP","pollen","anachronic","Vascular plants","TRSH",NA,NA
-"134","Rumex cf. R. salicifolius","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"135","Thelypteris palustris","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"136","Diphasiastrum complanatum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"137","Cingutriletes interruptus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"138","Taxus canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"139","Aquilapollenites","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
-"140","Dinoflagellata","NISP","cyst","anachronic","Dinoflagellates","DINO",NA,NA
-"141","Morus rubra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"142","Scutellaria cf. S. galericulata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"143","Scheuchzeria palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"144","Boraginaceae cf. Mertensia paniculata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"145","Isoëtes","NISP","spore",NA,"Vascular plants","AQVP",NA,NA
-"146","Cyclachaena xanthiifolia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"147","Psilatriletes vulgaris","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"148","Ranunculus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"149","Retitetradites monocolpatus","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
-"150","cf. Punctatisporites punctus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"151","Psilatriletes excelsus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"152","Punctatriletes parvimundus","NISP","spore","anachronic","Vascular plants","SEED",NA,NA
-"153","Striatriletes","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
-"154","Stuckenia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"155","Unknown undiff.","NISP","pollen/spore","anachronic","Unidentified","UNID",NA,NA
-"156","Psilatriletes vitreus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"157","cf. Clavabivesiculites pannosus","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
-"158","cf. Rugulatisporites quintus","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
-"159","cf. Verrumonocolpites conspicuus","NISP","pollen","anachronic","Vascular plants","SEED",NA,NA
-"160","Osmundastrum cinnamomeum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"161","Retitricolpites prolatus","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
-"162","Botrychium lunaria","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"163","Adiantum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"164","Botrychium cf. B. multifidum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"165","Calla palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"166","cf. Foveoinaperturites scaphoformis","NISP","palynomorph","anachronic","Vascular plants","ANAC",NA,NA
-"167","cf. Gemmainaperturites rugosus","NISP","palynomorph","anachronic","Vascular plants","ANAC",NA,NA
-"168","cf. Striatriletes bifurcus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"169","cf. Triplanosporites","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
-"170","cf. Verruinaperturites depressus","NISP","palynomorph","anachronic","Vascular plants","SEED",NA,NA
-"171","Cingutriletes congruens","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"172","Cingutriletes densocingulatus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"173","Foveotriletes triplanus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
-"174","Rugutriletes regularis","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
-"175","Verrumonoporites verrucatus","NISP","pollen","anachronic","Vascular plants","SEED",NA,NA
-"176","Amaranthaceae","NISP","pollen",NA,"Vascular plants","UPHE","Amaranthaceae",NA
-"177","Brasenia schreberi","NISP","pollen",NA,"Vascular plants","AQVP","Brasenia schreberi",NA
-"178","Eucalyptus spike","number","counted",NA,"Laboratory analyses","LABO","Eucalyptus spike",NA
-"179","Eucalyptus suspension","grains/ml","concentration",NA,"Laboratory analyses","LABO","Eucalyptus suspension|concentration|grains/ml",NA
-"180","Eucalyptus suspension","ml","quantity added",NA,"Laboratory analyses","LABO","Eucalyptus suspension|quantity added|ml",NA
-"181","Pinus subg. Pinus","NISP","pollen",NA,"Vascular plants","TRSH","Pinus subg. Pinus",NA
-"182","Pinus subg. Strobus","NISP","pollen",NA,"Vascular plants","TRSH","Pinus subg. Strobus",NA
-"183","Pinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Pinus undiff.",NA
-"184","Rhamnus","NISP","pollen",NA,"Vascular plants","TRSH","Rhamnus",NA
-"185","Sample quantity","ml","volume",NA,"Laboratory analyses","LABO","Sample quantity",NA
-"186","Acer rubrum","NISP","pollen",NA,"Vascular plants","TRSH","Acer rubrum",NA
-"187","Dryopteris","NISP","spore",NA,"Vascular plants","VACR","Dryopteris",NA
-"188","Huperzia lucidula","NISP","spore",NA,"Vascular plants","VACR","Huperzia lucidula",NA
-"189","Rhus","NISP","pollen",NA,"Vascular plants","TRSH","Rhus",NA
-"190","Acer saccharinum","NISP","pollen",NA,"Vascular plants","TRSH","Acer saccharinum",NA
-"191","Fraxinus pennsylvanica/F. americana-type","NISP","pollen",NA,"Vascular plants","TRSH","Fraxinus pennsylvanica/F. americana-type",NA
-"192","Ilex","NISP","pollen",NA,"Vascular plants","TRSH","Ilex",NA
-"193","Lycopodiaceae undiff.","NISP","spore",NA,"Vascular plants","VACR","Lycopodiaceae undiff.",NA
-"194","Unknown (monolete)","NISP","spore",NA,"Unidentified","UNID","Unknown (monolete)",NA
-"195","Lycopodium clavatum","NISP","spore",NA,"Vascular plants","VACR","Lycopodium clavatum",NA
-"196","Botrychium-type","NISP","spore",NA,"Vascular plants","VACR","Botrychium-type",NA
-"197","Typha/Sparganium","NISP","pollen",NA,"Vascular plants","AQVP","Typha/Sparganium",NA
-"198","Pinus banksiana/P. resinosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"199","Pinus strobus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"200","Lamiaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"201","Onagraceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"202","Microspheres","number","counted",NA,"Laboratory analyses","LABO","Microspheres",NA
-"203","Microsphere suspension","ml","quantity added",NA,"Laboratory analyses","LABO","Microsphere suspension|quantity added|ml",NA
-"204","Microsphere suspension","number/ml","concentration",NA,"Laboratory analyses","LABO","Microsphere suspension|concentration|number/ml",NA
-"205","Osmunda","NISP","spore",NA,"Vascular plants","VACR","Osmunda",NA
-"206","Humulus/Cannabis sativa","NISP","pollen",NA,"Vascular plants","UPHE","Humulus/Cannabis sativa",NA
-"207","Unknown (trilete)","NISP","spore",NA,"Unidentified","UNID","Unknown (trilete)",NA
-"208","Selaginella rupestris","NISP","spore",NA,"Vascular plants","VACR","Selaginella rupestris",NA
-"209","Sarracenia","NISP","pollen",NA,"Vascular plants","AQVP","Sarracenia",NA
-"210","Persicaria lapathifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Persicaria lapathifolia-type",NA
-"211","Caprifoliaceae sensu lato","NISP","pollen",NA,"Vascular plants","TRSH","Caprifoliaceae sensu lato",NA
-"212","Populus undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Populus undiff.",NA
-"213","Alnus cf. A. incana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"214","Ostrya-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"215","Thuja-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"216","Trifolium repens-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"217","Alnus cf. A. viridis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"218","Athyrium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"219","Humulus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"220","Agastache-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"221","cf. Ceanothus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"222","Huperzia lucidula-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"223","Juglans cinerea-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"224","Myriophyllum alterniflorum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"225","Parietaria-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"226","Cyperaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Cyperaceae undiff.",NA
-"227","Brassicaceae cf. Brassica","NISP","pollen",NA,"Vascular plants","UPHE","Brassicaceae cf. Brassica",NA
-"228","Brassicaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Brassicaceae undiff.",NA
-"229","cf. Eriogonum","NISP","pollen",NA,"Vascular plants","UPHE","cf. Eriogonum",NA
-"230","Plantago undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Plantago undiff.",NA
-"231","Liquidambar","NISP","pollen",NA,"Vascular plants","TRSH","Liquidambar",NA
-"232","Unknown (trilete) undiff.","NISP","spore",NA,"Unidentified","UNID","Unknown (trilete) undiff.",NA
-"233","Fallopia convolvulus-type","NISP","pollen",NA,"Vascular plants","UPHE","Fallopia convolvulus-type",NA
-"234","Juglans nigra-type","NISP","pollen",NA,"Vascular plants","TRSH","Juglans nigra-type",NA
-"235","Lycopodiaceae cf. Lycopodium annotinum","NISP","spore",NA,"Vascular plants","VACR","Lycopodiaceae cf. Lycopodium annotinum",NA
-"236","Potentilla-type","NISP","pollen",NA,"Vascular plants","UPHE","Potentilla-type",NA
-"237","Rumex undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Rumex undiff.",NA
-"238","Rumex acetosa-type","NISP","pollen",NA,"Vascular plants","UPHE","Rumex acetosa-type",NA
-"239","Cyperaceae cf. Rhynchospora alba","NISP","pollen",NA,"Vascular plants","AQVP","Cyperaceae cf. Rhynchospora alba",NA
-"240","Araceae subf. Lemnoideae","NISP","pollen",NA,"Vascular plants","AQVP","Araceae subf. Lemnoideae",NA
-"241","Plantago major-type","NISP","pollen",NA,"Vascular plants","UPHE","Plantago major-type",NA
-"242","Lycopodiaceae cf. Diphasiastrum complanatum","NISP","spore",NA,"Vascular plants","VACR","Lycopodiaceae cf. Diphasiastrum complanatum",NA
-"243","Rhus/Toxicodendron cf. T. radicans","NISP","pollen",NA,"Vascular plants","TRSH","Rhus/Toxicodendron cf. T. radicans",NA
-"244","cf. Phacelia hastata","NISP","pollen",NA,"Vascular plants","UPHE","cf. Phacelia hastata",NA
-"245","cf. Sambucus","NISP","pollen",NA,"Vascular plants","TRSH","cf. Sambucus",NA
-"246","Dalea undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Dalea undiff.",NA
-"247","Shepherdia argentea","NISP","pollen",NA,"Vascular plants","TRSH","Shepherdia argentea",NA
-"248","Stachys-type","NISP","pollen",NA,"Vascular plants","UPHE","Stachys-type",NA
-"249","Persicaria amphibia-type","NISP","pollen",NA,"Vascular plants","UPHE","Persicaria amphibia-type",NA
-"250","Acer spicatum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"251","Alnus incana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"252","Alnus viridis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"253","Salsola","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"254","Amelanchier-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"255","Cerealia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"256","Impatiens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"257","Lycopodium annotinum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"258","Lycopodium obscurum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"259","Fraxinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"260","Indeterminable undiff.","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
-"261","Juglans","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"262","Fabaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"263","Caltha","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"264","Epilobium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"265","Hippuris vulgaris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"266","Rubiaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"267","Selaginella selaginoides","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"268","Ophioglossum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"269","Saxifraga","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"270","Acer","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"271","Angiospermae undiff. (herbs)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"272","Pinus strobus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"273","Potamogetonaceae-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"274","Dalea candida","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"275","Lycopodiaceae","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"276","Symphoricarpos occidentalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"277","Lycopodium tablets","grains/tablet","concentration",NA,"Laboratory analyses","LABO","Lycopodium tablets|concentration|grains/tablet",NA
-"278","Lycopodium tablets","number","quantity added",NA,"Laboratory analyses","LABO","Lycopodium tablets|quantity added|number",NA
-"279","Sample quantity","g","dry mass examined",NA,"Laboratory analyses","LABO","Sample quantity|dry mass examined|g",NA
-"280","Ericales","NISP","pollen",NA,"Vascular plants","TRSH","Ericales",NA
-"281","Elaeagnus","NISP","pollen",NA,"Vascular plants","TRSH","Elaeagnus",NA
-"282","Typha/Sparganium undiff.","NISP","pollen",NA,"Vascular plants","AQVP","Typha/Sparganium undiff.",NA
-"283","Fraxinus (tetracolpate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"284","Fraxinus (tricolpate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"285","Juniperus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"286","Pinus subg. Pinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"287","Cerealia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"288","Caprifoliaceae sensu lato undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"289","Pinus banksiana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"290","Primulaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"291","Angiospermae undiff.","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
-"292","Polypodiaceae","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"293","Viola","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"294","Viburnum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"295","Pinus resinosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"296","Cornus sericea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"297","Corylus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"298","Corylus cornuta","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"299","Isoëtes lacustris","NISP","spore",NA,"Vascular plants","AQVP",NA,NA
-"300","Isoëtes undiff.","NISP","spore",NA,"Vascular plants","AQVP",NA,NA
-"301","Populus tremuloides","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"302","Urticaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"303","Amorpha canescens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"304","Comptonia peregrina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"305","Diphasiastrum complanatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"306","Caulophyllum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"307","Acer saccharum-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"308","Alnus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"309","Spermatophyta undiff. (shrubs)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"310","Taxus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"311","Spermatophyta undiff. (trees)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"312","Chamaedaphne calyculata","NISP","pollen",NA,"Vascular plants","TRSH","Chamaedaphne calyculata",NA
-"313","Polygalaceae","NISP","pollen",NA,"Vascular plants","UPHE","Polygalaceae",NA
-"314","Ericaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Ericaceae undiff.",NA
-"315","Cupressaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Cupressaceae undiff.",NA
-"316","Prunus","NISP","pollen",NA,"Vascular plants","TRSH","Prunus",NA
-"317","Cephalanthus","NISP","pollen",NA,"Vascular plants","TRSH","Cephalanthus",NA
-"318","Juniperus-type","NISP","pollen",NA,"Vascular plants","TRSH","Juniperus-type",NA
-"319","Heteranthera","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"320","Cannabis sativa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"321","Platanus occidentalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"322","Onosmodium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"323","Ephedra trifurca-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"324","Prosopis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"325","Rhamnus alnifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"326","Phlox","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"327","Zanthoxylum americanum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"328","Pilea-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"329","Caltha-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"330","Ephedra viridis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"331","Huperzia selago","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"332","Cirsium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"333","Decodon verticillatus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"334","Rumex-type undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"335","Juglans undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"336","Viburnum lentago","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"337","Ephedra undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"338","Rhamnaceae/Vitaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"339","Spermatophyta undiff. (aquatics)","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"340","Symphoricarpos","NISP","pollen",NA,"Vascular plants","TRSH","Symphoricarpos",NA
-"341","Ruppia maritima","NISP","pollen",NA,"Vascular plants","AQVP","Ruppia maritima",NA
-"342","Eucalyptus tablets","number","quantity added",NA,"Laboratory analyses","LABO",NA,NA
-"343","Portulaca","NISP","pollen",NA,"Vascular plants","UPHE","Portulaca",NA
-"344","Polygala","NISP","pollen",NA,"Vascular plants","UPHE","Polygala",NA
-"345","Solanaceae","NISP","pollen",NA,"Vascular plants","UPHE","Solanaceae",NA
-"346","Rubus","NISP","pollen",NA,"Vascular plants","TRSH","Rubus",NA
-"347","Cannabaceae sensu stricto","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"348","Iva","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"349","Amorpha-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"350","Ostrya","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"351","Polypodiophyta undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"352","Drosera","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"353","Filipendula","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"354","Ranunculaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"355","Author's pollen sum","NISP",NA,NA,"Laboratory analyses","LABO",NA,NA
-"356","Diervilla lonicera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"357","Vitis riparia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"358","Micranthes cf. M. virginiensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"359","Corylus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"360","cf. Penthorum sedoides","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"361","Saxifraga undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"362","Cheilanthes","NISP","spore",NA,"Vascular plants","VACR","Cheilanthes",NA
-"363","Iridaceae","NISP","pollen",NA,"Vascular plants","UPHE","Iridaceae",NA
-"364","Alisma","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"365","Fraxinus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"366","Persicaria maculosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"367","Sanguisorba","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"368","Typha","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"369","Nymphaeaceae","NISP","leaf-hair base",NA,"Vascular plants","AQVP",NA,NA
-"370","Nymphaeaceae undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"371","Brassica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"372","Secale-type","NISP","pollen",NA,"Vascular plants","UPHE","Secale-type",NA
-"373","Maclura pomifera-type","NISP","pollen",NA,"Vascular plants","TRSH","Maclura pomifera-type",NA
-"374","Avena-type","NISP","pollen",NA,"Vascular plants","UPHE","Avena-type",NA
-"375","Dryopteris carthusiana-type","NISP","spore",NA,"Vascular plants","VACR","Dryopteris carthusiana-type",NA
-"376","Dryopteris-type undiff.","NISP","spore",NA,"Vascular plants","VACR","Dryopteris-type undiff.",NA
-"377","Fagopyrum","NISP","pollen",NA,"Vascular plants","UPHE","Fagopyrum",NA
-"378","Thelypteris palustris-type","NISP","spore",NA,"Vascular plants","VACR","Thelypteris palustris-type",NA
-"379","Triticum-type","NISP","pollen",NA,"Vascular plants","UPHE","Triticum-type",NA
-"380","Medicago","NISP","pollen",NA,"Vascular plants","UPHE","Medicago",NA
-"381","Trifolium pratense","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium pratense",NA
-"382","Parthenocissus","NISP","pollen",NA,"Vascular plants","TRSH","Parthenocissus",NA
-"383","Anemone quinquefolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Anemone quinquefolia-type",NA
-"384","Hedyotis","NISP","pollen",NA,"Vascular plants","TRSH","Hedyotis",NA
-"385","Pedicularis","NISP","pollen",NA,"Vascular plants","UPHE","Pedicularis",NA
-"386","Ceanothus","NISP","pollen",NA,"Vascular plants","TRSH","Ceanothus",NA
-"387","Celastrus","NISP","pollen",NA,"Vascular plants","TRSH","Celastrus",NA
-"388","Hypoxis","NISP","pollen",NA,"Vascular plants","UPHE","Hypoxis",NA
-"389","Polygonum aviculare-type","NISP","pollen",NA,"Vascular plants","UPHE","Polygonum aviculare-type",NA
-"390","Hydrophyllum","NISP","pollen",NA,"Vascular plants","UPHE","Hydrophyllum",NA
-"391","Sisyrinchium","NISP","pollen",NA,"Vascular plants","UPHE","Sisyrinchium",NA
-"392","Zigadenus","NISP","pollen",NA,"Vascular plants","UPHE","Zigadenus",NA
-"393","Bidens-type","NISP","pollen",NA,"Vascular plants","UPHE","Bidens-type",NA
-"394","Populus balsamifera-type","NISP","pollen",NA,"Vascular plants","TRSH","Populus balsamifera-type",NA
-"395","Allium","NISP","pollen",NA,"Vascular plants","UPHE","Allium",NA
-"396","Tidestromia-type","NISP","pollen",NA,"Vascular plants","UPHE","Tidestromia-type",NA
-"397","Zanthoxylum","NISP","pollen",NA,"Vascular plants","TRSH","Zanthoxylum",NA
-"398","Sambucus","NISP","pollen",NA,"Vascular plants","TRSH","Sambucus",NA
-"399","Gentiana andrewsii-type","NISP","pollen",NA,"Vascular plants","UPHE","Gentiana andrewsii-type",NA
-"400","Eucalyptus tablets","g","quantity added",NA,"Laboratory analyses","LABO","Eucalyptus tablets|quantity added|g",NA
-"401","Eucalyptus tablets","grains/tablet","concentration",NA,"Laboratory analyses","LABO","Eucalyptus tablets|concentration|grains/tablet",NA
-"402","Pinaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Pinaceae undiff.",NA
-"403","Myricaceae","NISP","pollen",NA,"Vascular plants","TRSH","Myricaceae",NA
-"404","Iva undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"405","Polemoniaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"406","Myrica gale","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"407","Ericales undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"408","Alismataceae undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"409","Echinodorus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"410","Sparganium","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"411","Elymus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"412","Saxifraga-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"413","Crassulaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"414","Ribes","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"415","Hypericum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"416","Gentiana","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"417","Buxus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"418","Potamogetonaceae undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"419","Apiaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"420","Cryptogramma cf. C. stelleri","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"421","Thalictrum cf. T. dasycarpum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"422","Thalictrum cf. T. dioicum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"423","Thalictrum venulosum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"424","cf. Heuchera richardsonii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"425","Hydrophyllum cf. H. virginianum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"426","Apiaceae cf. Sium suave","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"427","Dracocephalum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"428","Phacelia cf. P. franklinii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"429","Hedysarum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"430","Plantago rugelii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"431","Viburnum opulus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"432","Triantha glutinosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"433","cf. Mertensia paniculata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"434","Elaeagnus commutata","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"435","Ericaceae-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"436","Phlox pilosa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"437","Plantago major","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"438","Acer negundo-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"439","Medicago sativa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"440","Mentha-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"441","Verbena","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"442","Lycopodium annotinum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"443","Lycopodium clavatum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"444","Myrica/Comptonia peregrina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"445","Pollen concentration","grains/ml","microsphere method",NA,"Laboratory analyses","LABO",NA,NA
-"446","Tsuga canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"447","Thalictrum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"448","Persicaria amphibia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"449","cf. Robinia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"450","Dryas-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"451","Cornus canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"452","Cornus rugosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"453","Pediomelum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"454","Cryptogramma","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"455","Huperzia selago-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"456","cf. Taxus canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"457","Dennstaedtia","NISP","spore",NA,"Vascular plants","VACR","Dennstaedtia",NA
-"458","Zea","NISP","pollen",NA,"Vascular plants","UPHE","Zea",NA
-"459","Solanum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"460","Unknown (diporate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
-"461","Clusiaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"462","Campanula","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"463","Scrophulariaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"464","Trifolium-type","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium-type",NA
-"465","Cystopteris","NISP","spore",NA,"Vascular plants","VACR","Cystopteris",NA
-"466","Lysimachia","NISP","pollen",NA,"Vascular plants","UPHE","Lysimachia",NA
-"467","Trientalis","NISP","pollen",NA,"Vascular plants","UPHE","Trientalis",NA
-"468","Polygonum sensu lato undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Polygonum sensu lato undiff.",NA
-"469","Lycopodiella inundata","NISP","spore",NA,"Vascular plants","VACR","Lycopodiella inundata",NA
-"470","Pinus det. P. banksiana/P. resinosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"471","Pinus det. P. strobus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"472","Polypodiophyta (monolete) undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"473","Lamiaceae cf. Stachys","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"474","cf. Saxifragaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"475","Euphorbiaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"476","Polypodiophyta (trilete)","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"477","Rubus chamaemorus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"478","cf. Rhamnus alnifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"479","Prunus americana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"480","Rhododendron subsect. Ledum/Chamaedaphne calyculata","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"481","Gaultheria procumbens","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"482","Polypodiophyta","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"483","Bryopsida","NISP","spore",NA,"Bryophytes","UPBR",NA,NA
-"484","Prunus/Sorbus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"485","Malvaceae sensu stricto","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"486","Plantago lanceolata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"487","Vaccinium","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"488","Typha angustifolia/Sparganium","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"489","Elaeagnaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"490","Rosaceae trees","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"491","Saxifragaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"492","Pyrus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"493","Gentianaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"494","Unknown undiff.","NISP","spore","anachronic","Unidentified","UNID",NA,NA
-"495","Pteridophyta undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"496","Spiraea-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"497","Oxyria digyna","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"498","Woodsia","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"499","Geum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"500","Boraginaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"501","Koenigia islandica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"502","Pterocarya","NISP","pollen","anachronic","Vascular plants","TRSH",NA,NA
-"503","Campanulaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"504","cf. Decodon verticillatus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"505","cf. Rhamnus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"506","cf. Geranium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"507","cf. Rumex","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"508","cf. Shepherdia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"509","cf. Nymphaea","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"510","Cannabaceae cf. Humulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"511","Eriogonum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"512","cf. Ilex","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"513","Geranium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"514","cf. Rhus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"515","Rhamnaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"516","Dryopteris campyloptera","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"517","Laportea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"518","Onoclea sensibilis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"519","Melilotus-type","NISP","pollen",NA,"Vascular plants","UPHE","Melilotus-type",NA
-"520","Polypodium-type","NISP","spore",NA,"Vascular plants","VACR","Polypodium-type",NA
-"521","Eucalyptus","NISP","pollen",NA,"Vascular plants","TRSH","Eucalyptus",NA
-"522","Gymnocarpium","NISP","spore",NA,"Vascular plants","VACR","Gymnocarpium",NA
-"523","Oxytropis","NISP","pollen",NA,"Vascular plants","UPHE","Oxytropis",NA
-"524","Linnaea borealis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"525","Diphasiastrum tristachyum","NISP","spore",NA,"Vascular plants","VACR","Diphasiastrum tristachyum",NA
-"526","Anemone-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"527","Cannabis sativa","NISP","pollen",NA,"Vascular plants","UPHE","Cannabis sativa",NA
-"528","cf. Lysimachia thyrsiflora","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"529","cf. Cephalanthus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"530","Impatiens capensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"531","Ranunculaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"532","Tidestromia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"533","Ophioglossum cf. O. vulgatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"534","Ranunculus subg. Batrachium","NISP","pollen",NA,"Vascular plants","AQVP","Ranunculus subg. Batrachium",NA
-"535","Fabaceae cf. Melilotus officinalis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"536","Fabaceae cf. Trifolium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"537","Myriophyllum verticillatum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"538","Claytosmunda claytoniana","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"539","Rhynchospora alba","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"540","Lycopodiaceae cf. Lycopodium clavatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"541","Phacelia hastata-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"542","Fungi","NISP","spore",NA,"Fungi","FUNG",NA,NA
-"543","Eucalyptus tablets","grains/g","concentration",NA,"Laboratory analyses","LABO","Eucalyptus tablets|concentration|grains/g",NA
-"544","Botryococcus","NISP","colony",NA,"Algae","ALGA","Botryococcus",NA
-"545","Dryas","NISP","pollen",NA,"Vascular plants","UPHE","Dryas",NA
-"546","Empetrum","NISP","pollen",NA,"Vascular plants","TRSH","Empetrum",NA
-"547","Saxifraga oppositifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Saxifraga oppositifolia-type",NA
-"548","Dryopteris carthusiana","NISP","spore",NA,"Vascular plants","VACR","Dryopteris carthusiana",NA
-"549","Dryopteris goldiana","NISP","spore",NA,"Vascular plants","VACR","Dryopteris goldiana",NA
-"550","Rhynchospora","NISP","pollen",NA,"Vascular plants","AQVP","Rhynchospora",NA
-"551","Selaginella densa-type","NISP","spore",NA,"Vascular plants","VACR","Selaginella densa-type",NA
-"552","Acer pensylvanicum","NISP","pollen",NA,"Vascular plants","TRSH","Acer pensylvanicum",NA
-"553","Triglochin","NISP","pollen",NA,"Vascular plants","AQVP","Triglochin",NA
-"554","Unknown (monolete) undiff.","NISP","spore",NA,"Unidentified","UNID","Unknown (monolete) undiff.",NA
-"555","Bistorta vivipara-type","NISP","pollen",NA,"Vascular plants","UPHE","Bistorta vivipara-type",NA
-"556","Rhamnaceae/Vitaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"557","Aquifoliaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"558","Fagus grandifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"559","Amorpha fruticosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"560","cf. Onoclea sensibilis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"561","cf. Pedicularis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"562","Cornus cf. C. rugosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"563","Caulophyllum thalictroides","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"564","Woodsia obtusa","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"565","Gymnocarpium robertianum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"566","Polypodium virginianum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"567","Vitis cf. V. aestivalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"568","Acer nigrum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"569","Acalypha cf. A. rhomboidea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"570","Botrychium cf. B. lunaria","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"571","Woodsia cf. W. ilvensis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"572","cf. Lobelia siphilitica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"573","Monotropa uniflora","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"574","Dryopteris cf. D. filix-mas","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"575","Myosotis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"576","Osmunda regalis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"577","Prunus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"578","Thalictrum dasycarpum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"579","Tilletia sphagni","NISP","spore",NA,"Fungi","FUNG",NA,NA
-"580","cf. Asplenium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"581","Dryopteris cf. D. fragrans","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"582","Triodanis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"583","Tidestromia lanuginosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"584","Castanea dentata","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"585","cf. Arabis glabra","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"586","Dryopteris cf. D. goldiana","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"587","Phlox cf. P. hoodii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"588","Thalictrum dioicum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"589","cf. Hedysarum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"590","Pollen concentration","grains/ml",NA,NA,"Laboratory analyses","LABO",NA,NA
-"591","Moraceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"592","Myricaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"593","Populus grandidentata-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"594","Thuja plicata-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"595","Unknown (monolete, psilate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
-"596","Typha angustifolia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"597","Hydrophyllum virginianum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"598","Lythrum alatum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"599","Unknown (Cretaceous)","NISP","palynomorph","anachronic","Unidentified","ANAC",NA,NA
-"600","Pontederiaceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"601","Lythraceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"602","Avena/Triticum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"603","Secale","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"604","Triticum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"605","Campanula aparinoides-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"606","Ranunculus undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"607","Ranunculus aquatilis-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"608","Cannabaceae sensu stricto undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"609","Lycopodium spike","number","counted",NA,"Laboratory analyses","LABO",NA,NA
-"610","Anacardiaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"611","Cerealia undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"612","Lilium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"613","Gentiana puberulenta-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"614","Botrychium cf. B. dissectum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"615","Pollen concentration","grains/ml","Eucalyptus method",NA,"Laboratory analyses","LABO","Pollen concentration|Eucalyptus method|grains/ml",NA
-"616","Lythrum","NISP","pollen",NA,"Vascular plants","UPHE","Lythrum",NA
-"617","Campanula rotundifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Campanula rotundifolia-type",NA
-"618","Zanthoxylum-type","NISP","pollen",NA,"Vascular plants","TRSH","Zanthoxylum-type",NA
-"619","Matteuccia","NISP","spore",NA,"Vascular plants","VACR","Matteuccia",NA
-"620","Lysimachia thyrsiflora","NISP","pollen",NA,"Vascular plants","UPHE","Lysimachia thyrsiflora",NA
-"621","Viburnum rafinesquianum-type","NISP","pollen",NA,"Vascular plants","TRSH","Viburnum rafinesquianum-type",NA
-"622","Solanum rostratum","NISP","pollen",NA,"Vascular plants","UPHE","Solanum rostratum",NA
-"623","Comandra","NISP","pollen",NA,"Vascular plants","UPHE","Comandra",NA
-"624","Lilium philadelphicum-type","NISP","pollen",NA,"Vascular plants","UPHE","Lilium philadelphicum-type",NA
-"625","Dalea purpurea-type","NISP","pollen",NA,"Vascular plants","UPHE","Dalea purpurea-type",NA
-"626","Parietaria","NISP","pollen",NA,"Vascular plants","UPHE","Parietaria",NA
-"627","Lysimachia quadriflora-type","NISP","pollen",NA,"Vascular plants","UPHE","Lysimachia quadriflora-type",NA
-"628","Cornus sericea-type","NISP","pollen",NA,"Vascular plants","TRSH","Cornus sericea-type",NA
-"629","Viburnum opulus-type","NISP","pollen",NA,"Vascular plants","TRSH","Viburnum opulus-type",NA
-"630","Anemone canadensis-type","NISP","pollen",NA,"Vascular plants","UPHE","Anemone canadensis-type",NA
-"631","Ranunculaceae (tricolpate) undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Ranunculaceae (tricolpate) undiff.",NA
-"632","Valeriana","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"633","Lamiaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"634","Viscaceae sensu stricto","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"635","Polemonium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"636","cf. Hypericum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"637","Spiraea","NISP","pollen",NA,"Vascular plants","TRSH","Spiraea",NA
-"638","Toxicodendron vernix","NISP","pollen",NA,"Vascular plants","TRSH","Toxicodendron vernix",NA
-"639","Fabaceae cf. Melilotus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"640","Geum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"641","Ranunculus flabellaris-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"642","cf. Viburnum lentago","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"643","Toxicodendron radicans-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"644","cf. Amorpha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"645","Typha undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"646","Rubiaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"647","Dicentra","NISP","pollen",NA,"Vascular plants","UPHE","Dicentra",NA
-"648","Parnassia","NISP","pollen",NA,"Vascular plants","UPHE","Parnassia",NA
-"649","Cornus undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Cornus undiff.",NA
-"650","Callitriche","NISP","pollen",NA,"Vascular plants","AQVP","Callitriche",NA
-"651","Vicia-type","NISP","pollen",NA,"Vascular plants","UPHE","Vicia-type",NA
-"652","Ilex/Nemopanthus","NISP","pollen",NA,"Vascular plants","TRSH","Ilex/Nemopanthus",NA
-"653","Fallopia convolvulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"654","Crataegus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"655","Gleditsia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"656","Maianthemum trifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Maianthemum trifolia-type",NA
-"657","Nemopanthus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"658","cf. Linaria canadensis","NISP","pollen",NA,"Vascular plants","UPHE","cf. Linaria canadensis",NA
-"659","cf. Tidestromia","NISP","pollen",NA,"Vascular plants","UPHE","cf. Tidestromia",NA
-"660","Isoëtes echinospora","NISP","spore",NA,"Vascular plants","AQVP","Isoëtes echinospora",NA
-"661","Ophioglossum vulgatum","NISP","spore",NA,"Vascular plants","VACR","Ophioglossum vulgatum",NA
-"662","Botrychium multifidum","NISP","spore",NA,"Vascular plants","VACR","Botrychium multifidum",NA
-"663","Rumex cf. R. verticillatus","NISP","pollen",NA,"Vascular plants","UPHE","Rumex cf. R. verticillatus",NA
-"664","Viburnum cf. V. opulus","NISP","pollen",NA,"Vascular plants","TRSH","Viburnum cf. V. opulus",NA
-"665","Achillea-type","NISP","pollen",NA,"Vascular plants","UPHE","Achillea-type",NA
-"666","cf. Parietaria pensylvanica","NISP","pollen",NA,"Vascular plants","UPHE","cf. Parietaria pensylvanica",NA
-"667","Cymatiosphere","NISP","palynomorph","anachronic","Unidentified","ANAC","Cymatiosphere",NA
-"668","Rosaceae cf. Rubus pubescens","NISP","pollen",NA,"Vascular plants","TRSH","Rosaceae cf. Rubus pubescens",NA
-"669","Sanguinaria canadensis","NISP","pollen",NA,"Vascular plants","UPHE","Sanguinaria canadensis",NA
-"670","Tofieldia pusilla","NISP","pollen",NA,"Vascular plants","UPHE","Tofieldia pusilla",NA
-"671","Cingutriletes parvicingulus","NISP","spore","anachronic","Vascular plants","ANAC","Cingutriletes parvicingulus",NA
-"672","cf. Mitella nuda","NISP","pollen",NA,"Vascular plants","UPHE","cf. Mitella nuda",NA
-"673","Classopollis","NISP","pollen","anachronic","Vascular plants","ANAC","Classopollis",NA
-"674","Granabivesiculites inchoatus","NISP","pollen","anachronic","Vascular plants","TRSH","Granabivesiculites inchoatus",NA
-"675","Adiantum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"676","cf. Osmunda","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"677","Salix nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"678","Salix undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"679","Spermatophyta undiff. (trees/shrubs)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"680","Osmunda regalis/O. claytoniana","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"681","Ranunculus flabellaris","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"682","Botrychium virginianum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"683","cf. Caltha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"684","Cystopteris fragilis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"685","Brassica-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"686","Humulus/Cannabis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"687","Lycopodium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"688","Sarcobatus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"689","Alnus viridis subsp. crispa-type","NISP","pollen",NA,"Vascular plants","TRSH","Alnus viridis subsp. crispa-type",NA
-"690","Brasenia","NISP","pollen",NA,"Vascular plants","AQVP","Brasenia",NA
-"691","Cerealia-type undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Cerealia-type undiff.",NA
-"692","Chamaesyce-type","NISP","pollen",NA,"Vascular plants","UPHE","Chamaesyce-type",NA
-"693","Cirsium-type","NISP","pollen",NA,"Vascular plants","UPHE","Cirsium-type",NA
-"694","Sanicula","NISP","pollen",NA,"Vascular plants","UPHE","Sanicula",NA
-"695","Cannabis-type","NISP","pollen",NA,"Vascular plants","UPHE","Cannabis-type",NA
-"696","Ruppia","NISP","pollen",NA,"Vascular plants","AQVP","Ruppia",NA
-"697","Indeterminable (reticulate)","NISP","pollen/spore",NA,"Unidentified","UNID","Indeterminable (reticulate)",NA
-"698","Euphorbiaceae cf. Chamaesyce","NISP","pollen",NA,"Vascular plants","UPHE","Euphorbiaceae cf. Chamaesyce",NA
-"699","Stachys","NISP","pollen",NA,"Vascular plants","UPHE","Stachys",NA
-"700","Eriocaulon","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"701","Typha (tetrad)","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"702","Persicaria lapathifolia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"703","Polygonum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"704","Amaranthaceae-type","NISP","pollen",NA,"Vascular plants","UPHE","Amaranthaceae-type",NA
-"705","Potamogeton-type","NISP","pollen",NA,"Vascular plants","AQVP","Potamogeton-type",NA
-"706","Salsola kali","NISP","pollen",NA,"Vascular plants","UPHE","Salsola kali",NA
-"707","Lycopodium undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"708","Myriophyllum alterniflorum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"709","Mertensia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"710","Spike","NISP","counted",NA,"Laboratory analyses","LABO",NA,NA
-"711","Plantago lanceolata-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"712","Hypoxis hirsuta","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"713","Lysimachia ciliata-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"714","Astragalus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"715","Stellaria","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"716","Maclura-type","NISP","pollen",NA,"Vascular plants","TRSH","Maclura-type",NA
-"717","Ambrosia/Iva","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"718","Eucalyptus spike","NISP","pollen",NA,"Laboratory analyses","LABO",NA,NA
-"719","Asteraceae subf. Asteroideae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"720","Menyanthes","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"721","Ranunculaceae (tricolpate)","NISP","pollen",NA,"Vascular plants","UPHE","Ranunculaceae (tricolpate)",NA
-"722","Allium-type","NISP","pollen",NA,"Vascular plants","UPHE","Allium-type",NA
-"723","Prosopis cf. P. pubescens","NISP","pollen",NA,"Vascular plants","TRSH","Prosopis cf. P. pubescens",NA
-"724","Valeriana edulis","NISP","pollen",NA,"Vascular plants","UPHE","Valeriana edulis",NA
-"725","Alnus (pentaporate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"726","Alnus (tetraporate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"727","Thuja","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"728","Betulaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"729","Unknown (trilete, scabrate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
-"730","Eriophorum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"731","cf. Athyrium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"732","Unknown (monolete, verrucate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
-"733","Asteraceae (lophate, echinate)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"734","Hippuris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"735","Lycopodium suspension","grains/g","concentration",NA,"Laboratory analyses","LABO","Lycopodium suspension|concentration|grains/g",NA
-"736","Lycopodium suspension","ml","quantity added",NA,"Laboratory analyses","LABO","Lycopodium suspension|quantity added|ml",NA
-"737","Eupatorium","NISP","pollen",NA,"Vascular plants","UPHE","Eupatorium",NA
-"738","Elodea","NISP","pollen",NA,"Vascular plants","AQVP","Elodea",NA
-"739","Thelypteris","NISP","spore",NA,"Vascular plants","VACR","Thelypteris",NA
-"740","Abies","NISP","stomate",NA,"Vascular plants","TRSH","Abies|stomate|NISP",NA
-"741","Asplenium-type","NISP","spore",NA,"Vascular plants","VACR","Asplenium-type",NA
-"742","Coniferae undiff.","NISP","stomate",NA,"Vascular plants","TRSH","Coniferae undiff.",NA
-"743","Larix","NISP","stomate",NA,"Vascular plants","TRSH","Larix|stomate|NISP",NA
-"744","Picea glauca","NISP","pollen",NA,"Vascular plants","TRSH","Picea glauca",NA
-"745","Picea mariana","NISP","pollen",NA,"Vascular plants","TRSH","Picea mariana|pollen|NISP",NA
-"746","Picea mariana","NISP","stomate",NA,"Vascular plants","TRSH","Picea mariana|stomate|NISP",NA
-"747","Pinaceae (vesiculate) undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Pinaceae (vesiculate) undiff.",NA
-"748","Pinus","NISP","stomate",NA,"Vascular plants","TRSH","Pinus",NA
-"749","Unknown (pre-Quaternary)","NISP","pollen/spore","anachronic","Unidentified","UNID","Unknown (pre-Quaternary)",NA
-"750","Gymnocarpium-type","NISP","spore",NA,"Vascular plants","VACR","Gymnocarpium-type",NA
-"751","Picea indet.","NISP","pollen",NA,"Vascular plants","TRSH","Picea indet.",NA
-"752","Athyrium-type","NISP","spore",NA,"Vascular plants","VACR","Athyrium-type",NA
-"753","Clethra","NISP","pollen",NA,"Vascular plants","TRSH","Clethra",NA
-"754","cf. Arceuthobium","NISP","pollen",NA,"Vascular plants","TRSH","cf. Arceuthobium",NA
-"755","Picea undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Picea undiff.|pollen|NISP",NA
-"756","Picea undiff.","NISP","stomate",NA,"Vascular plants","TRSH","Picea undiff.|stomate|NISP",NA
-"757","cf. Cyatheaceae","NISP","spore",NA,"Vascular plants","VACR","cf. Cyatheaceae",NA
-"758","Magnolia","NISP","pollen",NA,"Vascular plants","TRSH","Magnolia",NA
-"759","Xyris","NISP","pollen",NA,"Vascular plants","UPHE","Xyris",NA
-"760","cf. Saxifraga oppositifolia","NISP","pollen",NA,"Vascular plants","UPHE","cf. Saxifraga oppositifolia",NA
-"761","Lycopodium obscurum-type","NISP","spore",NA,"Vascular plants","VACR","Lycopodium obscurum-type",NA
-"762","Picea glauca-type","NISP","stomate",NA,"Vascular plants","TRSH","Picea glauca-type",NA
-"763","Rhynchospora-type","NISP","pollen",NA,"Vascular plants","AQVP","Rhynchospora-type",NA
-"764","Ipomoea","NISP","pollen",NA,"Vascular plants","UPHE","Ipomoea",NA
-"765","Oxalis","NISP","pollen",NA,"Vascular plants","UPHE","Oxalis",NA
-"766","Xanthium-type","NISP","pollen",NA,"Vascular plants","UPHE","Xanthium-type",NA
-"767","Rubiaceae (pentacolpate)","NISP","pollen",NA,"Vascular plants","UPHE","Rubiaceae (pentacolpate)",NA
-"768","cf. Selaginella","NISP","spore",NA,"Vascular plants","VACR","cf. Selaginella",NA
-"769","Malvaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Malvaceae undiff.",NA
-"770","cf. Acalypha","NISP","pollen",NA,"Vascular plants","UPHE","cf. Acalypha",NA
-"771","Other plants","NISP","pollen",NA,"Plants undiff.","UNID",NA,NA
-"772","Pinus/Picea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"773","Rhus glabra-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"774","Penthorum sedoides","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"775","Sagina","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"776","Sium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"777","Fabaceae cf. Oxytropis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"778","Mitella-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"779","Chenopodiaceae sensu stricto","NISP","pollen",NA,"Vascular plants","UPHE","Chenopodiaceae sensu stricto",NA
-"780","Alnus viridis subsp. crispa","NISP","pollen",NA,"Vascular plants","TRSH","Alnus viridis subsp. crispa",NA
-"781","Asteraceae","NISP","pollen",NA,"Vascular plants","UPHE","Asteraceae",NA
-"782","Cupressaceae/Taxaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Cupressaceae/Taxaceae undiff.",NA
-"783","Picea/Pinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"784","Spike","NISP","pollen",NA,"Laboratory analyses","LABO",NA,NA
-"785","Spike suspension","number/ml","concentration",NA,"Laboratory analyses","LABO",NA,NA
-"786","Spike","number","counted",NA,"Laboratory analyses","LABO",NA,NA
-"787","Spike suspension","grains/ml","concentration",NA,"Laboratory analyses","LABO",NA,NA
-"788","Sample quantity","number","counted",NA,"Laboratory analyses","LABO",NA,NA
-"789","Spike","ml","volume",NA,"Laboratory analyses","LABO",NA,NA
-"790","cf. Urtica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"791","Fraxinus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"792","Plantago cf. P. major","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"793","Populus-type","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
-"794","Unknown","NISP","pollen",NA,"Unidentified","UNID",NA,NA
-"795","cf. Iva annua","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"796","cf. Dennstaedtia","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"797","cf. Prunus serotina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"798","cf. Plantago","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"799","cf. Polygonum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"800","Acer cf. A. negundo","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"801","cf. Fraxinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"802","Betula/Ostrya","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"803","Bistorta vivipara","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"804","Polygonum aviculare","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"805","cf. Castanea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"806","Acer (reticulate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"807","Acer (rugulate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"808","Acer (striate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"809","cf. Impatiens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"810","Acer cf. A. spicatum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"811","Utricularia vulgaris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"812","Celtis/Maclura-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"813","Ilex-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"814","Cornus canadensis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"815","Primula farinosa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"816","Myrica-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"817","Ilex/Nemopanthus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"818","Osmunda regalis-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"819","Mentha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"820","Unknown/Rare","NISP","pollen/spore",NA,"Plants undiff.","PLNT",NA,NA
-"821","cf. Linum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"822","Lycopodium cf. L. clavatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"823","Lonicera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"824","Indeterminable","NISP","pollen",NA,"Unidentified","UNID",NA,NA
-"825","Linum cf. L. usitatissimum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"826","Rumex cf. R. britannica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"827","Rumex cf. R. mexicanus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"828","cf. Veronicastrum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"829","Alnus cf. A. viridis subsp. crispa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"830","cf. Brassica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"831","Poaceae cf. Zea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"832","Trifolium cf. T. pratense","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"833","Ranunculus trichophyllus-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"834","Pinus subg. Pinus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"835","Pinus subg. Strobus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"836","Pinus banksiana/P. resinosa-type","NISP","pollen",NA,"Vascular plants","TRSH","Pinus banksiana/P. resinosa-type",NA
-"837","Caltha palustris","NISP","pollen",NA,"Vascular plants","AQVP","Caltha palustris",NA
-"838","cf. Gentiana","NISP","pollen",NA,"Vascular plants","UPHE","cf. Gentiana",NA
-"839","Indeterminable (triporate)","NISP","pollen/spore",NA,"Unidentified","UNID","Indeterminable (triporate)",NA
-"840","Lemna-type","NISP","pollen",NA,"Vascular plants","AQVP","Lemna-type",NA
-"841","Indeterminable undiff.","NISP","pollen",NA,"Unidentified","UNID","Indeterminable undiff.",NA
-"842","Microspheres","NISP","counted",NA,"Laboratory analyses","LABO","Microspheres",NA
-"843","cf. Medicago","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"844","Polygonum (tricolporate)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"845","Thalictrum undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"846","Sinapis arvensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"847","Eudicotyledoneae (tricolporate, small)","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
-"848","Fabaceae tribe Psoraleeae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"849","Lathyrus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"850","Caryophyllaceae cf. Silene","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"851","Sanguisorba-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"852","Diervilla","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"853","Dryopteris fragrans","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"854","cf. Thalictrum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"855","Thalictrum confine-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"856","cf. Euphorbia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"857","cf. Veronicastrum virginicum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"858","Fabaceae cf. tribe Psoraleeae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"859","Onoclea","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"860","Polygonaceae (tricolporate)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"861","Cystopteris bulbifera","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"862","Comptonia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"863","Larix/Pseudotsuga","NISP","pollen",NA,"Vascular plants","TRSH","Larix/Pseudotsuga",NA
-"864","Lonicera-type","NISP","pollen",NA,"Vascular plants","TRSH","Lonicera-type",NA
-"865","Ceratophyllum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"866","Chenopodium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"867","Menispermaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"868","Planera aquatica","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"869","Mitella","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"870","Tilletia","NISP","spore",NA,"Fungi","FUNG",NA,NA
-"871","Osmundaceae undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"872","Iris","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"873","Scheuchzeria","NISP","pollen",NA,"Vascular plants","AQVP","Scheuchzeria",NA
-"874","Adiantum pedatum","NISP","spore",NA,"Vascular plants","VACR","Adiantum pedatum",NA
-"875","Prunus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"876","Ranunculus aquatilis","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"877","Typha angustifolia-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"878","Coniferae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"879","Suaeda","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"880","Asteraceae (high spine)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"881","Asteraceae (low spine)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"882","Maclura pomifera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"883","Alnus (triporate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"884","Ulmus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"885","Violaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"886","Bidens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"887","Potamogeton/Triglochin","NISP","pollen",NA,"Vascular plants","AQVP","Potamogeton/Triglochin",NA
-"888","Lycopodium suspension","grains/ml","concentration",NA,"Laboratory analyses","LABO","Lycopodium suspension|concentration|grains/ml",NA
-"889","Nyssa sylvatica","NISP","pollen",NA,"Vascular plants","TRSH","Nyssa sylvatica",NA
-"890","Helianthus","NISP","pollen",NA,"Vascular plants","UPHE","Helianthus",NA
-"891","Suaeda calceoliformis","NISP","pollen",NA,"Vascular plants","UPHE","Suaeda calceoliformis",NA
-"892","Zizania aquatica","NISP","pollen",NA,"Vascular plants","AQVP","Zizania aquatica",NA
-"893","cf. Botrychium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"894","Rhamnaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"895","Arceuthobium pusillum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"896","Unknown (trilete, psilate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
-"897","cf. Taxus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"898","Polygonum undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"899","Botrychium undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"900","Hudsonia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"901","cf. Morus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"902","cf. Cupressaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"903","cf. Parnassia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"904","Linaria","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"905","cf. Platanus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"906","Saxifraga oppositifolia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"907","Spergularia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"908","Chrysosplenium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"909","Acorus calamus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"910","cf. Lysimachia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"911","Charcoal","number","fragment",NA,"Charcoal","CHAR",NA,NA
-"912","Caryophyllaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"913","Rosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"914","Veronica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"915","Toxicodendron radicans","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"916","Rhus glabra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"917","Scrophularia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"918","Mimulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"919","Rhus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"920","Anemone","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"921","Maianthemum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"922","Cornus racemosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"923","Viburnum undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"924","Cornus alternifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"925","cf. Utricularia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"926","Caprifoliaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"927","Nymphaeaceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"928","Vitaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"929","Myrica/Comptonia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"930","Aster-type","NISP","pollen",NA,"Vascular plants","UPHE","Aster-type",NA
-"931","Trifolium repens","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium repens",NA
-"932","Armeria","NISP","pollen",NA,"Vascular plants","UPHE","Armeria",NA
-"933","Rosa-type","NISP","pollen",NA,"Vascular plants","UPHE","Rosa-type",NA
-"934","Potamogeton natans","NISP","pollen",NA,"Vascular plants","AQVP","Potamogeton natans",NA
-"935","Anthemis-type","NISP","pollen",NA,"Vascular plants","UPHE","Anthemis-type",NA
-"936","Stuckenia cf. S. pectinata","NISP","pollen",NA,"Vascular plants","AQVP","Stuckenia cf. S. pectinata",NA
-"937","Plantago major/P. media","NISP","pollen",NA,"Vascular plants","UPHE","Plantago major/P. media",NA
-"938","Knautia","NISP","pollen",NA,"Vascular plants","UPHE","Knautia",NA
-"939","Huperzia","NISP","spore",NA,"Vascular plants","VACR","Huperzia",NA
-"940","Taraxacum-type","NISP","pollen",NA,"Vascular plants","UPHE","Taraxacum-type",NA
-"941","Moraceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"942","Equisetum-type","NISP","spore",NA,"Vascular plants","VACR","Equisetum-type",NA
-"943","Typhaceae","NISP","pollen",NA,"Vascular plants","AQVP","Typhaceae",NA
-"944","Galium-type","NISP","pollen",NA,"Vascular plants","UPHE","Galium-type",NA
-"945","Muscari","NISP","pollen",NA,"Vascular plants","UPHE","Muscari",NA
-"946","Trapa","NISP","pollen",NA,"Vascular plants","AQVP","Trapa",NA
-"947","Chamaenerion latifolium","NISP","pollen",NA,"Vascular plants","UPHE","Chamaenerion latifolium",NA
-"948","Crataegus","NISP","pollen",NA,"Vascular plants","TRSH","Crataegus",NA
-"949","Hymenophyllaceae","NISP","spore",NA,"Vascular plants","VACR","Hymenophyllaceae",NA
-"950","Stratiotes","NISP","pollen",NA,"Vascular plants","AQVP","Stratiotes",NA
-"951","Primula","NISP","pollen",NA,"Vascular plants","UPHE","Primula",NA
-"952","Trifolium","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium",NA
-"953","Listera","NISP","pollen",NA,"Vascular plants","UPHE","Listera",NA
-"954","Chrysosplenium","NISP","pollen",NA,"Vascular plants","UPHE","Chrysosplenium",NA
-"955","Polystichum","NISP","spore",NA,"Vascular plants","VACR","Polystichum",NA
-"956","Montia","NISP","pollen",NA,"Vascular plants","UPHE","Montia",NA
-"957","Rhinanthus","NISP","pollen",NA,"Vascular plants","UPHE","Rhinanthus",NA
-"958","Myriophyllum sibiricum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"959","Abies","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"960","Acer","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"961","Alnus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"962","Amaranthaceae","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"963","Artemisia","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"964","Asteraceae undiff.","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"965","Betula","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"966","Carya","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"967","Corylus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"968","Cyperaceae","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"969","Fraxinus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"970","Juglans","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"971","Leptosporangiatae","NISP digitized","spore",NA,"Vascular plants","VACR",NA,NA
-"972","Ostrya/Carpinus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"973","Pinus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"974","Poaceae","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"975","Potamogeton","NISP digitized","pollen",NA,"Vascular plants","AQVP",NA,NA
-"976","Quercus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"977","Salix","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"978","Tilia","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"979","Typha","NISP digitized","pollen",NA,"Vascular plants","AQVP",NA,NA
-"980","Ulmus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"981","Picea","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"982","Larix","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"983","Nuphar","NISP digitized","pollen",NA,"Vascular plants","AQVP",NA,NA
-"984","Populus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"985","Elaeagnaceae","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"986","Shepherdia canadensis","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
-"987","cf. Thalictrum","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"988","Saxifraga-type","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"989","Saxifraga oppositifolia","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
-"990","Achillea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"991","Carpinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"992","Sporormiella","NISP","spore",NA,"Fungi","FUNG",NA,NA
-"993","Lycopus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"994","Taraxacum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"995","Meliola","NISP","spore",NA,"Fungi","FUNG",NA,NA
-"996","Myriophyllum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"997","Unknown (inaperturate, psilate)","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
-"998","cf. Adiantum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"999","Cupressaceae/Taxaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1000","Fraxinus quadrangulata/F. nigra-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1001","Microspheres","grains/ml","counted",NA,"Laboratory analyses","LABO",NA,NA
-"1002","Balsaminaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1003","Cannabaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1004","Maclura","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1005","Pontederia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1006","Oxalidaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1007","Alismataceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1008","Algae (type A)","NISP","cyst",NA,"Algae","ALGA",NA,NA
-"1009","Algae (type B)","NISP","cyst",NA,"Algae","ALGA",NA,NA
-"1010","Alternanthera","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1011","Amorpha cf. A. canescens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1012","Arabis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1013","Cactaceae","NISP","pollen",NA,"Vascular plants","SUCC",NA,NA
-"1014","Celastrus scandens","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1015","cf. Hottonia palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1016","cf. Stratiotes","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
-"1017","Cladosporium","NISP","spore",NA,"Fungi","FUNG",NA,NA
-"1018","Dinoflagellata","NISP","hystrichosphere cyst",NA,"Dinoflagellates","DINO",NA,NA
-"1019","Filipendula rubra","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1020","Liliaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1021","Lilium philadelphicum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1022","Lonicera hirsuta","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1023","Lotus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1024","Matteuccia/Onoclea","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"1025","Melilotus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1026","Nymphoides-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1027","Papaveraceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1028","Pediastrum boryanum","NISP","colony",NA,"Algae","ALGA",NA,NA
-"1029","Pediastrum duplex","NISP","colony",NA,"Algae","ALGA",NA,NA
-"1030","Pediastrum simplex","NISP","colony",NA,"Algae","ALGA",NA,NA
-"1031","Pediastrum undiff.","NISP","colony",NA,"Algae","ALGA",NA,NA
-"1032","Phlox pilosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1033","Polypodiophyta (without perine)","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"1034","Polypodiophyta (with perine)","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"1035","Polypodium vulgare","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"1036","Potamogeton pectinatus-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1037","Ranunculus sp.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1038","Sambucus racemosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1039","Tofieldia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1040","Trifolium pratense-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1041","Unknown (pre-Quaternary)","NISP","palynomorph",NA,"Unidentified","UNID",NA,NA
-"1042","Algae (type C)","NISP","cyst",NA,"Algae","ALGA",NA,NA
-"1043","Lonicera canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1044","Potamogeton natans-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1045","Araceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1046","Bistorta officinalis-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1047","Boraginaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1048","Centaurea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1049","Cuscuta","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1050","Hydrocharis","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1051","Linum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1052","Prunella-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1053","Scutellaria-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1054","Viola palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
-"1055","Araceae cf. Calla","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1056","Primulaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1057","Rhus sp.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1058","Hydrodictyon","NISP","colony",NA,"Algae","ALGA",NA,NA
-"1059","Algae undiff.","NISP","cyst (reticulate)",NA,"Algae","ALGA",NA,NA
-"1060","Asplenium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
-"1061","Houstonia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1062","Robinia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
-"1063","cf. Hippuris","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
-"1064","cf. Adoxa moschatellina","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
-"1065","Pteridophyta","NISP","spore",NA,"Vascular plants","VACR","Pteridophyta",NA
+"target","variable.units","variable.element","variable.context","taxon.group","ecological.group","alias","match"
+"Abies","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer negundo","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer saccharum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Amaranthaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ambrosia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Arceuthobium","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Artemisia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Asteraceae subf. Asteroideae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Betula","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Brassicaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Carya","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Corylus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cupressaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cyclachaena xanthiifolia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cyperaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Dalea candida-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Equisetum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Fraxinus americana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Indeterminable","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
+"Myriophyllum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Ostrya/Carpinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Picea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Poaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Populus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Potamogetonaceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Quercus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rumex","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Salix","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Sample quantity","ml","volume examined",NA,"Laboratory analyses","LABO",NA,NA
+"Sparganium-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Thalictrum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Tilia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Typha latifolia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Ulmus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Unknown","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
+"Vitis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Apiaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fraxinus nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Iva annua","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Juglans cinerea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Juglans nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Platanus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Zea mays","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ephedra nevadensis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Morus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Plantago","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Sarcobatus vermiculatus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Celtis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Dryopteris-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Pteridium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Amorpha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Dalea purpurea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Myrica","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Tsuga","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Xanthium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Asteraceae subf. Cichorioideae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Humulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Castanea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Larix","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Lemna","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Rosaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ephedra torreyana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Sphagnum","NISP","spore",NA,"Bryophytes","AQBR",NA,NA
+"Sagittaria","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Persicaria maculosa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Alnus incana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus viridis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Fabaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fraxinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pediastrum","NISP","colony",NA,"Algae","ALGA",NA,NA
+"Poaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Rosaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Acer undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Caryophyllaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fraxinus nigra-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Juniperus/Thuja","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Polygonaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Dalea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Populus balsamifera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ericaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Sanguisorba canadensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Botrychium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Galium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fraxinus pennsylvanica","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Urtica-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Euphorbia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ephedra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Saxifragaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Shepherdia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Fagus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Polypodium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Nyssa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Potentilla","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Menyanthes trifoliata","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Ambrosia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Pteridium-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Nuphar","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Lycopodium-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Asteraceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ranunculus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Epilobium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Shepherdia canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Liliaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Selaginella","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Polygonum sensu lato","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Urtica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Abies balsamea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer saccharinum-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Celtis occidentalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Chenopodium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fraxinus pennsylvanica-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Iva annua-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Juglans cf. J. cinerea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Juglans cf. J. nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Laportea-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Myriophyllum sibiricum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Nymphaea","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Populus tremuloides-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pteridium aquilinum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Rhus/Toxicodendron cf. T. vernix","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Tilia americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Utricularia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Humulus lupulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Larix laricina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Potamogeton","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Athyrium filix-femina","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Gymnocarpium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Chamaesyce","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cornus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Lycopus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Rugubivesiculites","NISP","pollen","anachronic","Vascular plants","TRSH",NA,NA
+"Rumex cf. R. salicifolius","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Thelypteris palustris","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Diphasiastrum complanatum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Cingutriletes interruptus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"Taxus canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Aquilapollenites","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
+"Dinoflagellata","NISP","cyst","anachronic","Dinoflagellates","DINO",NA,NA
+"Morus rubra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Scutellaria cf. S. galericulata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Scheuchzeria palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Boraginaceae cf. Mertensia paniculata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Isoëtes","NISP","spore",NA,"Vascular plants","AQVP",NA,NA
+"Cyclachaena xanthiifolia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Psilatriletes vulgaris","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"Ranunculus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Retitetradites monocolpatus","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
+"cf. Punctatisporites punctus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"Psilatriletes excelsus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"Punctatriletes parvimundus","NISP","spore","anachronic","Vascular plants","SEED",NA,NA
+"Striatriletes","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
+"Stuckenia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Unknown undiff.","NISP","pollen/spore","anachronic","Unidentified","UNID",NA,NA
+"Psilatriletes vitreus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"cf. Clavabivesiculites pannosus","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
+"cf. Rugulatisporites quintus","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
+"cf. Verrumonocolpites conspicuus","NISP","pollen","anachronic","Vascular plants","SEED",NA,NA
+"Osmundastrum cinnamomeum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Retitricolpites prolatus","NISP","pollen","anachronic","Vascular plants","ANAC",NA,NA
+"Botrychium lunaria","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Adiantum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Botrychium cf. B. multifidum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Calla palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"cf. Foveoinaperturites scaphoformis","NISP","palynomorph","anachronic","Vascular plants","ANAC",NA,NA
+"cf. Gemmainaperturites rugosus","NISP","palynomorph","anachronic","Vascular plants","ANAC",NA,NA
+"cf. Striatriletes bifurcus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"cf. Triplanosporites","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
+"cf. Verruinaperturites depressus","NISP","palynomorph","anachronic","Vascular plants","SEED",NA,NA
+"Cingutriletes congruens","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"Cingutriletes densocingulatus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"Foveotriletes triplanus","NISP","spore","anachronic","Vascular plants","ANAC",NA,NA
+"Rugutriletes regularis","NISP","spore","anachronic","Vascular plants","VACR",NA,NA
+"Verrumonoporites verrucatus","NISP","pollen","anachronic","Vascular plants","SEED",NA,NA
+"Amaranthaceae","NISP","pollen",NA,"Vascular plants","UPHE","Amaranthaceae",NA
+"Brasenia schreberi","NISP","pollen",NA,"Vascular plants","AQVP","Brasenia schreberi",NA
+"Eucalyptus spike","number","counted",NA,"Laboratory analyses","LABO","Eucalyptus spike",NA
+"Eucalyptus suspension","grains/ml","concentration",NA,"Laboratory analyses","LABO","Eucalyptus suspension|concentration|grains/ml",NA
+"Eucalyptus suspension","ml","quantity added",NA,"Laboratory analyses","LABO","Eucalyptus suspension|quantity added|ml",NA
+"Pinus subg. Pinus","NISP","pollen",NA,"Vascular plants","TRSH","Pinus subg. Pinus",NA
+"Pinus subg. Strobus","NISP","pollen",NA,"Vascular plants","TRSH","Pinus subg. Strobus",NA
+"Pinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Pinus undiff.",NA
+"Rhamnus","NISP","pollen",NA,"Vascular plants","TRSH","Rhamnus",NA
+"Sample quantity","ml","volume",NA,"Laboratory analyses","LABO","Sample quantity",NA
+"Acer rubrum","NISP","pollen",NA,"Vascular plants","TRSH","Acer rubrum",NA
+"Dryopteris","NISP","spore",NA,"Vascular plants","VACR","Dryopteris",NA
+"Huperzia lucidula","NISP","spore",NA,"Vascular plants","VACR","Huperzia lucidula",NA
+"Rhus","NISP","pollen",NA,"Vascular plants","TRSH","Rhus",NA
+"Acer saccharinum","NISP","pollen",NA,"Vascular plants","TRSH","Acer saccharinum",NA
+"Fraxinus pennsylvanica/F. americana-type","NISP","pollen",NA,"Vascular plants","TRSH","Fraxinus pennsylvanica/F. americana-type",NA
+"Ilex","NISP","pollen",NA,"Vascular plants","TRSH","Ilex",NA
+"Lycopodiaceae undiff.","NISP","spore",NA,"Vascular plants","VACR","Lycopodiaceae undiff.",NA
+"Unknown (monolete)","NISP","spore",NA,"Unidentified","UNID","Unknown (monolete)",NA
+"Lycopodium clavatum","NISP","spore",NA,"Vascular plants","VACR","Lycopodium clavatum",NA
+"Botrychium-type","NISP","spore",NA,"Vascular plants","VACR","Botrychium-type",NA
+"Typha/Sparganium","NISP","pollen",NA,"Vascular plants","AQVP","Typha/Sparganium",NA
+"Pinus banksiana/P. resinosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus strobus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Lamiaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Onagraceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Microspheres","number","counted",NA,"Laboratory analyses","LABO","Microspheres",NA
+"Microsphere suspension","ml","quantity added",NA,"Laboratory analyses","LABO","Microsphere suspension|quantity added|ml",NA
+"Microsphere suspension","number/ml","concentration",NA,"Laboratory analyses","LABO","Microsphere suspension|concentration|number/ml",NA
+"Osmunda","NISP","spore",NA,"Vascular plants","VACR","Osmunda",NA
+"Humulus/Cannabis sativa","NISP","pollen",NA,"Vascular plants","UPHE","Humulus/Cannabis sativa",NA
+"Unknown (trilete)","NISP","spore",NA,"Unidentified","UNID","Unknown (trilete)",NA
+"Selaginella rupestris","NISP","spore",NA,"Vascular plants","VACR","Selaginella rupestris",NA
+"Sarracenia","NISP","pollen",NA,"Vascular plants","AQVP","Sarracenia",NA
+"Persicaria lapathifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Persicaria lapathifolia-type",NA
+"Caprifoliaceae sensu lato","NISP","pollen",NA,"Vascular plants","TRSH","Caprifoliaceae sensu lato",NA
+"Populus undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Populus undiff.",NA
+"Alnus cf. A. incana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ostrya-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Thuja-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Trifolium repens-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Alnus cf. A. viridis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Athyrium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Humulus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Agastache-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Ceanothus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Huperzia lucidula-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Juglans cinerea-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Myriophyllum alterniflorum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Parietaria-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cyperaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Cyperaceae undiff.",NA
+"Brassicaceae cf. Brassica","NISP","pollen",NA,"Vascular plants","UPHE","Brassicaceae cf. Brassica",NA
+"Brassicaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Brassicaceae undiff.",NA
+"cf. Eriogonum","NISP","pollen",NA,"Vascular plants","UPHE","cf. Eriogonum",NA
+"Plantago undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Plantago undiff.",NA
+"Liquidambar","NISP","pollen",NA,"Vascular plants","TRSH","Liquidambar",NA
+"Unknown (trilete) undiff.","NISP","spore",NA,"Unidentified","UNID","Unknown (trilete) undiff.",NA
+"Fallopia convolvulus-type","NISP","pollen",NA,"Vascular plants","UPHE","Fallopia convolvulus-type",NA
+"Juglans nigra-type","NISP","pollen",NA,"Vascular plants","TRSH","Juglans nigra-type",NA
+"Lycopodiaceae cf. Lycopodium annotinum","NISP","spore",NA,"Vascular plants","VACR","Lycopodiaceae cf. Lycopodium annotinum",NA
+"Potentilla-type","NISP","pollen",NA,"Vascular plants","UPHE","Potentilla-type",NA
+"Rumex undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Rumex undiff.",NA
+"Rumex acetosa-type","NISP","pollen",NA,"Vascular plants","UPHE","Rumex acetosa-type",NA
+"Cyperaceae cf. Rhynchospora alba","NISP","pollen",NA,"Vascular plants","AQVP","Cyperaceae cf. Rhynchospora alba",NA
+"Araceae subf. Lemnoideae","NISP","pollen",NA,"Vascular plants","AQVP","Araceae subf. Lemnoideae",NA
+"Plantago major-type","NISP","pollen",NA,"Vascular plants","UPHE","Plantago major-type",NA
+"Lycopodiaceae cf. Diphasiastrum complanatum","NISP","spore",NA,"Vascular plants","VACR","Lycopodiaceae cf. Diphasiastrum complanatum",NA
+"Rhus/Toxicodendron cf. T. radicans","NISP","pollen",NA,"Vascular plants","TRSH","Rhus/Toxicodendron cf. T. radicans",NA
+"cf. Phacelia hastata","NISP","pollen",NA,"Vascular plants","UPHE","cf. Phacelia hastata",NA
+"cf. Sambucus","NISP","pollen",NA,"Vascular plants","TRSH","cf. Sambucus",NA
+"Dalea undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Dalea undiff.",NA
+"Shepherdia argentea","NISP","pollen",NA,"Vascular plants","TRSH","Shepherdia argentea",NA
+"Stachys-type","NISP","pollen",NA,"Vascular plants","UPHE","Stachys-type",NA
+"Persicaria amphibia-type","NISP","pollen",NA,"Vascular plants","UPHE","Persicaria amphibia-type",NA
+"Acer spicatum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus incana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus viridis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Salsola","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Amelanchier-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cerealia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Impatiens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lycopodium annotinum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Lycopodium obscurum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Fraxinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Indeterminable undiff.","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
+"Juglans","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Fabaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Caltha","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Epilobium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Hippuris vulgaris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Rubiaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Selaginella selaginoides","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Ophioglossum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Saxifraga","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Acer","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Angiospermae undiff. (herbs)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Pinus strobus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Potamogetonaceae-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Dalea candida","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lycopodiaceae","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Symphoricarpos occidentalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Lycopodium tablets","grains/tablet","concentration",NA,"Laboratory analyses","LABO","Lycopodium tablets|concentration|grains/tablet",NA
+"Lycopodium tablets","number","quantity added",NA,"Laboratory analyses","LABO","Lycopodium tablets|quantity added|number",NA
+"Sample quantity","g","dry mass examined",NA,"Laboratory analyses","LABO","Sample quantity|dry mass examined|g",NA
+"Ericales","NISP","pollen",NA,"Vascular plants","TRSH","Ericales",NA
+"Elaeagnus","NISP","pollen",NA,"Vascular plants","TRSH","Elaeagnus",NA
+"Typha/Sparganium undiff.","NISP","pollen",NA,"Vascular plants","AQVP","Typha/Sparganium undiff.",NA
+"Fraxinus (tetracolpate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Fraxinus (tricolpate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Juniperus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus subg. Pinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cerealia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Caprifoliaceae sensu lato undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus banksiana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Primulaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Angiospermae undiff.","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
+"Polypodiaceae","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Viola","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Viburnum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus resinosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cornus sericea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Corylus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Corylus cornuta","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Isoëtes lacustris","NISP","spore",NA,"Vascular plants","AQVP",NA,NA
+"Isoëtes undiff.","NISP","spore",NA,"Vascular plants","AQVP",NA,NA
+"Populus tremuloides","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Urticaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Amorpha canescens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Comptonia peregrina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Diphasiastrum complanatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Caulophyllum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Acer saccharum-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Spermatophyta undiff. (shrubs)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Taxus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Spermatophyta undiff. (trees)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Chamaedaphne calyculata","NISP","pollen",NA,"Vascular plants","TRSH","Chamaedaphne calyculata",NA
+"Polygalaceae","NISP","pollen",NA,"Vascular plants","UPHE","Polygalaceae",NA
+"Ericaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Ericaceae undiff.",NA
+"Cupressaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Cupressaceae undiff.",NA
+"Prunus","NISP","pollen",NA,"Vascular plants","TRSH","Prunus",NA
+"Cephalanthus","NISP","pollen",NA,"Vascular plants","TRSH","Cephalanthus",NA
+"Juniperus-type","NISP","pollen",NA,"Vascular plants","TRSH","Juniperus-type",NA
+"Heteranthera","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Cannabis sativa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Platanus occidentalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Onosmodium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ephedra trifurca-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Prosopis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rhamnus alnifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Phlox","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Zanthoxylum americanum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pilea-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Caltha-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ephedra viridis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Huperzia selago","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Cirsium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Decodon verticillatus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Rumex-type undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Juglans undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Viburnum lentago","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ephedra undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rhamnaceae/Vitaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Spermatophyta undiff. (aquatics)","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Symphoricarpos","NISP","pollen",NA,"Vascular plants","TRSH","Symphoricarpos",NA
+"Ruppia maritima","NISP","pollen",NA,"Vascular plants","AQVP","Ruppia maritima",NA
+"Eucalyptus tablets","number","quantity added",NA,"Laboratory analyses","LABO",NA,NA
+"Portulaca","NISP","pollen",NA,"Vascular plants","UPHE","Portulaca",NA
+"Polygala","NISP","pollen",NA,"Vascular plants","UPHE","Polygala",NA
+"Solanaceae","NISP","pollen",NA,"Vascular plants","UPHE","Solanaceae",NA
+"Rubus","NISP","pollen",NA,"Vascular plants","TRSH","Rubus",NA
+"Cannabaceae sensu stricto","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Iva","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Amorpha-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ostrya","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Polypodiophyta undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Drosera","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Filipendula","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ranunculaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Author's pollen sum","NISP",NA,NA,"Laboratory analyses","LABO",NA,NA
+"Diervilla lonicera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Vitis riparia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Micranthes cf. M. virginiensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Corylus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Penthorum sedoides","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Saxifraga undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cheilanthes","NISP","spore",NA,"Vascular plants","VACR","Cheilanthes",NA
+"Iridaceae","NISP","pollen",NA,"Vascular plants","UPHE","Iridaceae",NA
+"Alisma","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Fraxinus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Persicaria maculosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Sanguisorba","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Typha","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Nymphaeaceae","NISP","leaf-hair base",NA,"Vascular plants","AQVP",NA,NA
+"Nymphaeaceae undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Brassica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Secale-type","NISP","pollen",NA,"Vascular plants","UPHE","Secale-type",NA
+"Maclura pomifera-type","NISP","pollen",NA,"Vascular plants","TRSH","Maclura pomifera-type",NA
+"Avena-type","NISP","pollen",NA,"Vascular plants","UPHE","Avena-type",NA
+"Dryopteris carthusiana-type","NISP","spore",NA,"Vascular plants","VACR","Dryopteris carthusiana-type",NA
+"Dryopteris-type undiff.","NISP","spore",NA,"Vascular plants","VACR","Dryopteris-type undiff.",NA
+"Fagopyrum","NISP","pollen",NA,"Vascular plants","UPHE","Fagopyrum",NA
+"Thelypteris palustris-type","NISP","spore",NA,"Vascular plants","VACR","Thelypteris palustris-type",NA
+"Triticum-type","NISP","pollen",NA,"Vascular plants","UPHE","Triticum-type",NA
+"Medicago","NISP","pollen",NA,"Vascular plants","UPHE","Medicago",NA
+"Trifolium pratense","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium pratense",NA
+"Parthenocissus","NISP","pollen",NA,"Vascular plants","TRSH","Parthenocissus",NA
+"Anemone quinquefolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Anemone quinquefolia-type",NA
+"Hedyotis","NISP","pollen",NA,"Vascular plants","TRSH","Hedyotis",NA
+"Pedicularis","NISP","pollen",NA,"Vascular plants","UPHE","Pedicularis",NA
+"Ceanothus","NISP","pollen",NA,"Vascular plants","TRSH","Ceanothus",NA
+"Celastrus","NISP","pollen",NA,"Vascular plants","TRSH","Celastrus",NA
+"Hypoxis","NISP","pollen",NA,"Vascular plants","UPHE","Hypoxis",NA
+"Polygonum aviculare-type","NISP","pollen",NA,"Vascular plants","UPHE","Polygonum aviculare-type",NA
+"Hydrophyllum","NISP","pollen",NA,"Vascular plants","UPHE","Hydrophyllum",NA
+"Sisyrinchium","NISP","pollen",NA,"Vascular plants","UPHE","Sisyrinchium",NA
+"Zigadenus","NISP","pollen",NA,"Vascular plants","UPHE","Zigadenus",NA
+"Bidens-type","NISP","pollen",NA,"Vascular plants","UPHE","Bidens-type",NA
+"Populus balsamifera-type","NISP","pollen",NA,"Vascular plants","TRSH","Populus balsamifera-type",NA
+"Allium","NISP","pollen",NA,"Vascular plants","UPHE","Allium",NA
+"Tidestromia-type","NISP","pollen",NA,"Vascular plants","UPHE","Tidestromia-type",NA
+"Zanthoxylum","NISP","pollen",NA,"Vascular plants","TRSH","Zanthoxylum",NA
+"Sambucus","NISP","pollen",NA,"Vascular plants","TRSH","Sambucus",NA
+"Gentiana andrewsii-type","NISP","pollen",NA,"Vascular plants","UPHE","Gentiana andrewsii-type",NA
+"Eucalyptus tablets","g","quantity added",NA,"Laboratory analyses","LABO","Eucalyptus tablets|quantity added|g",NA
+"Eucalyptus tablets","grains/tablet","concentration",NA,"Laboratory analyses","LABO","Eucalyptus tablets|concentration|grains/tablet",NA
+"Pinaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Pinaceae undiff.",NA
+"Myricaceae","NISP","pollen",NA,"Vascular plants","TRSH","Myricaceae",NA
+"Iva undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Polemoniaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Myrica gale","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ericales undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alismataceae undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Echinodorus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Sparganium","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Elymus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Saxifraga-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Crassulaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ribes","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Hypericum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Gentiana","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Buxus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Potamogetonaceae undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Apiaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cryptogramma cf. C. stelleri","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Thalictrum cf. T. dasycarpum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Thalictrum cf. T. dioicum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Thalictrum venulosum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Heuchera richardsonii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Hydrophyllum cf. H. virginianum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Apiaceae cf. Sium suave","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Dracocephalum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Phacelia cf. P. franklinii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Hedysarum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Plantago rugelii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Viburnum opulus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Triantha glutinosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Mertensia paniculata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Elaeagnus commutata","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ericaceae-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Phlox pilosa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Plantago major","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Acer negundo-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Medicago sativa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Mentha-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Verbena","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lycopodium annotinum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Lycopodium clavatum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Myrica/Comptonia peregrina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pollen concentration","grains/ml","microsphere method",NA,"Laboratory analyses","LABO",NA,NA
+"Tsuga canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Thalictrum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Persicaria amphibia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Robinia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Dryas-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cornus canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cornus rugosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pediomelum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cryptogramma","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Huperzia selago-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Taxus canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Dennstaedtia","NISP","spore",NA,"Vascular plants","VACR","Dennstaedtia",NA
+"Zea","NISP","pollen",NA,"Vascular plants","UPHE","Zea",NA
+"Solanum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Unknown (diporate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
+"Clusiaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Campanula","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Scrophulariaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Trifolium-type","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium-type",NA
+"Cystopteris","NISP","spore",NA,"Vascular plants","VACR","Cystopteris",NA
+"Lysimachia","NISP","pollen",NA,"Vascular plants","UPHE","Lysimachia",NA
+"Trientalis","NISP","pollen",NA,"Vascular plants","UPHE","Trientalis",NA
+"Polygonum sensu lato undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Polygonum sensu lato undiff.",NA
+"Lycopodiella inundata","NISP","spore",NA,"Vascular plants","VACR","Lycopodiella inundata",NA
+"Pinus det. P. banksiana/P. resinosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus det. P. strobus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Polypodiophyta (monolete) undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Lamiaceae cf. Stachys","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Saxifragaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Euphorbiaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Polypodiophyta (trilete)","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Rubus chamaemorus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Rhamnus alnifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Prunus americana-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rhododendron subsect. Ledum/Chamaedaphne calyculata","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Gaultheria procumbens","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Polypodiophyta","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Bryopsida","NISP","spore",NA,"Bryophytes","UPBR",NA,NA
+"Prunus/Sorbus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Malvaceae sensu stricto","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Plantago lanceolata","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Vaccinium","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Typha angustifolia/Sparganium","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Elaeagnaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rosaceae trees","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Saxifragaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Pyrus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Gentianaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Unknown undiff.","NISP","spore","anachronic","Unidentified","UNID",NA,NA
+"Pteridophyta undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Spiraea-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Oxyria digyna","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Woodsia","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Geum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Boraginaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Koenigia islandica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Pterocarya","NISP","pollen","anachronic","Vascular plants","TRSH",NA,NA
+"Campanulaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Decodon verticillatus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"cf. Rhamnus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Geranium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Rumex","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Shepherdia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Nymphaea","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Cannabaceae cf. Humulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Eriogonum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Ilex","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Geranium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Rhus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rhamnaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Dryopteris campyloptera","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Laportea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Onoclea sensibilis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Melilotus-type","NISP","pollen",NA,"Vascular plants","UPHE","Melilotus-type",NA
+"Polypodium-type","NISP","spore",NA,"Vascular plants","VACR","Polypodium-type",NA
+"Eucalyptus","NISP","pollen",NA,"Vascular plants","TRSH","Eucalyptus",NA
+"Gymnocarpium","NISP","spore",NA,"Vascular plants","VACR","Gymnocarpium",NA
+"Oxytropis","NISP","pollen",NA,"Vascular plants","UPHE","Oxytropis",NA
+"Linnaea borealis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Diphasiastrum tristachyum","NISP","spore",NA,"Vascular plants","VACR","Diphasiastrum tristachyum",NA
+"Anemone-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cannabis sativa","NISP","pollen",NA,"Vascular plants","UPHE","Cannabis sativa",NA
+"cf. Lysimachia thyrsiflora","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Cephalanthus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Impatiens capensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ranunculaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Tidestromia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ophioglossum cf. O. vulgatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Ranunculus subg. Batrachium","NISP","pollen",NA,"Vascular plants","AQVP","Ranunculus subg. Batrachium",NA
+"Fabaceae cf. Melilotus officinalis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fabaceae cf. Trifolium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Myriophyllum verticillatum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Claytosmunda claytoniana","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Rhynchospora alba","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Lycopodiaceae cf. Lycopodium clavatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Phacelia hastata-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fungi","NISP","spore",NA,"Fungi","FUNG",NA,NA
+"Eucalyptus tablets","grains/g","concentration",NA,"Laboratory analyses","LABO","Eucalyptus tablets|concentration|grains/g",NA
+"Botryococcus","NISP","colony",NA,"Algae","ALGA","Botryococcus",NA
+"Dryas","NISP","pollen",NA,"Vascular plants","UPHE","Dryas",NA
+"Empetrum","NISP","pollen",NA,"Vascular plants","TRSH","Empetrum",NA
+"Saxifraga oppositifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Saxifraga oppositifolia-type",NA
+"Dryopteris carthusiana","NISP","spore",NA,"Vascular plants","VACR","Dryopteris carthusiana",NA
+"Dryopteris goldiana","NISP","spore",NA,"Vascular plants","VACR","Dryopteris goldiana",NA
+"Rhynchospora","NISP","pollen",NA,"Vascular plants","AQVP","Rhynchospora",NA
+"Selaginella densa-type","NISP","spore",NA,"Vascular plants","VACR","Selaginella densa-type",NA
+"Acer pensylvanicum","NISP","pollen",NA,"Vascular plants","TRSH","Acer pensylvanicum",NA
+"Triglochin","NISP","pollen",NA,"Vascular plants","AQVP","Triglochin",NA
+"Unknown (monolete) undiff.","NISP","spore",NA,"Unidentified","UNID","Unknown (monolete) undiff.",NA
+"Bistorta vivipara-type","NISP","pollen",NA,"Vascular plants","UPHE","Bistorta vivipara-type",NA
+"Rhamnaceae/Vitaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Aquifoliaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Fagus grandifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Amorpha fruticosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Onoclea sensibilis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Pedicularis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cornus cf. C. rugosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Caulophyllum thalictroides","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Woodsia obtusa","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Gymnocarpium robertianum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Polypodium virginianum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Vitis cf. V. aestivalis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer nigrum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acalypha cf. A. rhomboidea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Botrychium cf. B. lunaria","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Woodsia cf. W. ilvensis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Lobelia siphilitica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Monotropa uniflora","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Dryopteris cf. D. filix-mas","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Myosotis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Osmunda regalis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Prunus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Thalictrum dasycarpum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Tilletia sphagni","NISP","spore",NA,"Fungi","FUNG",NA,NA
+"cf. Asplenium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Dryopteris cf. D. fragrans","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Triodanis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Tidestromia lanuginosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Castanea dentata","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Arabis glabra","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Dryopteris cf. D. goldiana","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Phlox cf. P. hoodii","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Thalictrum dioicum-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Hedysarum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Pollen concentration","grains/ml",NA,NA,"Laboratory analyses","LABO",NA,NA
+"Moraceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Myricaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Populus grandidentata-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Thuja plicata-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Unknown (monolete, psilate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
+"Typha angustifolia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Hydrophyllum virginianum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lythrum alatum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Unknown (Cretaceous)","NISP","palynomorph","anachronic","Unidentified","ANAC",NA,NA
+"Pontederiaceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Lythraceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Avena/Triticum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Secale","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Triticum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Campanula aparinoides-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ranunculus undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ranunculus aquatilis-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Cannabaceae sensu stricto undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lycopodium spike","number","counted",NA,"Laboratory analyses","LABO",NA,NA
+"Anacardiaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cerealia undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lilium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Gentiana puberulenta-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Botrychium cf. B. dissectum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Pollen concentration","grains/ml","Eucalyptus method",NA,"Laboratory analyses","LABO","Pollen concentration|Eucalyptus method|grains/ml",NA
+"Lythrum","NISP","pollen",NA,"Vascular plants","UPHE","Lythrum",NA
+"Campanula rotundifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Campanula rotundifolia-type",NA
+"Zanthoxylum-type","NISP","pollen",NA,"Vascular plants","TRSH","Zanthoxylum-type",NA
+"Matteuccia","NISP","spore",NA,"Vascular plants","VACR","Matteuccia",NA
+"Lysimachia thyrsiflora","NISP","pollen",NA,"Vascular plants","UPHE","Lysimachia thyrsiflora",NA
+"Viburnum rafinesquianum-type","NISP","pollen",NA,"Vascular plants","TRSH","Viburnum rafinesquianum-type",NA
+"Solanum rostratum","NISP","pollen",NA,"Vascular plants","UPHE","Solanum rostratum",NA
+"Comandra","NISP","pollen",NA,"Vascular plants","UPHE","Comandra",NA
+"Lilium philadelphicum-type","NISP","pollen",NA,"Vascular plants","UPHE","Lilium philadelphicum-type",NA
+"Dalea purpurea-type","NISP","pollen",NA,"Vascular plants","UPHE","Dalea purpurea-type",NA
+"Parietaria","NISP","pollen",NA,"Vascular plants","UPHE","Parietaria",NA
+"Lysimachia quadriflora-type","NISP","pollen",NA,"Vascular plants","UPHE","Lysimachia quadriflora-type",NA
+"Cornus sericea-type","NISP","pollen",NA,"Vascular plants","TRSH","Cornus sericea-type",NA
+"Viburnum opulus-type","NISP","pollen",NA,"Vascular plants","TRSH","Viburnum opulus-type",NA
+"Anemone canadensis-type","NISP","pollen",NA,"Vascular plants","UPHE","Anemone canadensis-type",NA
+"Ranunculaceae (tricolpate) undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Ranunculaceae (tricolpate) undiff.",NA
+"Valeriana","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lamiaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Viscaceae sensu stricto","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Polemonium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Hypericum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Spiraea","NISP","pollen",NA,"Vascular plants","TRSH","Spiraea",NA
+"Toxicodendron vernix","NISP","pollen",NA,"Vascular plants","TRSH","Toxicodendron vernix",NA
+"Fabaceae cf. Melilotus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Geum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ranunculus flabellaris-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Viburnum lentago","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Toxicodendron radicans-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Amorpha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Typha undiff.","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Rubiaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Dicentra","NISP","pollen",NA,"Vascular plants","UPHE","Dicentra",NA
+"Parnassia","NISP","pollen",NA,"Vascular plants","UPHE","Parnassia",NA
+"Cornus undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Cornus undiff.",NA
+"Callitriche","NISP","pollen",NA,"Vascular plants","AQVP","Callitriche",NA
+"Vicia-type","NISP","pollen",NA,"Vascular plants","UPHE","Vicia-type",NA
+"Ilex/Nemopanthus","NISP","pollen",NA,"Vascular plants","TRSH","Ilex/Nemopanthus",NA
+"Fallopia convolvulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Crataegus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Gleditsia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Maianthemum trifolia-type","NISP","pollen",NA,"Vascular plants","UPHE","Maianthemum trifolia-type",NA
+"Nemopanthus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Linaria canadensis","NISP","pollen",NA,"Vascular plants","UPHE","cf. Linaria canadensis",NA
+"cf. Tidestromia","NISP","pollen",NA,"Vascular plants","UPHE","cf. Tidestromia",NA
+"Isoëtes echinospora","NISP","spore",NA,"Vascular plants","AQVP","Isoëtes echinospora",NA
+"Ophioglossum vulgatum","NISP","spore",NA,"Vascular plants","VACR","Ophioglossum vulgatum",NA
+"Botrychium multifidum","NISP","spore",NA,"Vascular plants","VACR","Botrychium multifidum",NA
+"Rumex cf. R. verticillatus","NISP","pollen",NA,"Vascular plants","UPHE","Rumex cf. R. verticillatus",NA
+"Viburnum cf. V. opulus","NISP","pollen",NA,"Vascular plants","TRSH","Viburnum cf. V. opulus",NA
+"Achillea-type","NISP","pollen",NA,"Vascular plants","UPHE","Achillea-type",NA
+"cf. Parietaria pensylvanica","NISP","pollen",NA,"Vascular plants","UPHE","cf. Parietaria pensylvanica",NA
+"Cymatiosphere","NISP","palynomorph","anachronic","Unidentified","ANAC","Cymatiosphere",NA
+"Rosaceae cf. Rubus pubescens","NISP","pollen",NA,"Vascular plants","TRSH","Rosaceae cf. Rubus pubescens",NA
+"Sanguinaria canadensis","NISP","pollen",NA,"Vascular plants","UPHE","Sanguinaria canadensis",NA
+"Tofieldia pusilla","NISP","pollen",NA,"Vascular plants","UPHE","Tofieldia pusilla",NA
+"Cingutriletes parvicingulus","NISP","spore","anachronic","Vascular plants","ANAC","Cingutriletes parvicingulus",NA
+"cf. Mitella nuda","NISP","pollen",NA,"Vascular plants","UPHE","cf. Mitella nuda",NA
+"Classopollis","NISP","pollen","anachronic","Vascular plants","ANAC","Classopollis",NA
+"Granabivesiculites inchoatus","NISP","pollen","anachronic","Vascular plants","TRSH","Granabivesiculites inchoatus",NA
+"Adiantum-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Osmunda","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Salix nigra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Salix undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Spermatophyta undiff. (trees/shrubs)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Osmunda regalis/O. claytoniana","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Ranunculus flabellaris","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Botrychium virginianum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Caltha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cystopteris fragilis","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Brassica-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Humulus/Cannabis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lycopodium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Sarcobatus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Alnus viridis subsp. crispa-type","NISP","pollen",NA,"Vascular plants","TRSH","Alnus viridis subsp. crispa-type",NA
+"Brasenia","NISP","pollen",NA,"Vascular plants","AQVP","Brasenia",NA
+"Cerealia-type undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Cerealia-type undiff.",NA
+"Chamaesyce-type","NISP","pollen",NA,"Vascular plants","UPHE","Chamaesyce-type",NA
+"Cirsium-type","NISP","pollen",NA,"Vascular plants","UPHE","Cirsium-type",NA
+"Sanicula","NISP","pollen",NA,"Vascular plants","UPHE","Sanicula",NA
+"Cannabis-type","NISP","pollen",NA,"Vascular plants","UPHE","Cannabis-type",NA
+"Ruppia","NISP","pollen",NA,"Vascular plants","AQVP","Ruppia",NA
+"Indeterminable (reticulate)","NISP","pollen/spore",NA,"Unidentified","UNID","Indeterminable (reticulate)",NA
+"Euphorbiaceae cf. Chamaesyce","NISP","pollen",NA,"Vascular plants","UPHE","Euphorbiaceae cf. Chamaesyce",NA
+"Stachys","NISP","pollen",NA,"Vascular plants","UPHE","Stachys",NA
+"Eriocaulon","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Typha (tetrad)","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Persicaria lapathifolia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Polygonum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Amaranthaceae-type","NISP","pollen",NA,"Vascular plants","UPHE","Amaranthaceae-type",NA
+"Potamogeton-type","NISP","pollen",NA,"Vascular plants","AQVP","Potamogeton-type",NA
+"Salsola kali","NISP","pollen",NA,"Vascular plants","UPHE","Salsola kali",NA
+"Lycopodium undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Myriophyllum alterniflorum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Mertensia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Spike","NISP","counted",NA,"Laboratory analyses","LABO",NA,NA
+"Plantago lanceolata-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Hypoxis hirsuta","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lysimachia ciliata-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Astragalus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Stellaria","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Maclura-type","NISP","pollen",NA,"Vascular plants","TRSH","Maclura-type",NA
+"Ambrosia/Iva","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Eucalyptus spike","NISP","pollen",NA,"Laboratory analyses","LABO",NA,NA
+"Asteraceae subf. Asteroideae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Menyanthes","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Ranunculaceae (tricolpate)","NISP","pollen",NA,"Vascular plants","UPHE","Ranunculaceae (tricolpate)",NA
+"Allium-type","NISP","pollen",NA,"Vascular plants","UPHE","Allium-type",NA
+"Prosopis cf. P. pubescens","NISP","pollen",NA,"Vascular plants","TRSH","Prosopis cf. P. pubescens",NA
+"Valeriana edulis","NISP","pollen",NA,"Vascular plants","UPHE","Valeriana edulis",NA
+"Alnus (pentaporate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus (tetraporate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Thuja","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Betulaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Unknown (trilete, scabrate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
+"Eriophorum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"cf. Athyrium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Unknown (monolete, verrucate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
+"Asteraceae (lophate, echinate)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Hippuris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Lycopodium suspension","grains/g","concentration",NA,"Laboratory analyses","LABO","Lycopodium suspension|concentration|grains/g",NA
+"Lycopodium suspension","ml","quantity added",NA,"Laboratory analyses","LABO","Lycopodium suspension|quantity added|ml",NA
+"Eupatorium","NISP","pollen",NA,"Vascular plants","UPHE","Eupatorium",NA
+"Elodea","NISP","pollen",NA,"Vascular plants","AQVP","Elodea",NA
+"Thelypteris","NISP","spore",NA,"Vascular plants","VACR","Thelypteris",NA
+"Abies","NISP","stomate",NA,"Vascular plants","TRSH","Abies|stomate|NISP",NA
+"Asplenium-type","NISP","spore",NA,"Vascular plants","VACR","Asplenium-type",NA
+"Coniferae undiff.","NISP","stomate",NA,"Vascular plants","TRSH","Coniferae undiff.",NA
+"Larix","NISP","stomate",NA,"Vascular plants","TRSH","Larix|stomate|NISP",NA
+"Picea glauca","NISP","pollen",NA,"Vascular plants","TRSH","Picea glauca",NA
+"Picea mariana","NISP","pollen",NA,"Vascular plants","TRSH","Picea mariana|pollen|NISP",NA
+"Picea mariana","NISP","stomate",NA,"Vascular plants","TRSH","Picea mariana|stomate|NISP",NA
+"Pinaceae (vesiculate) undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Pinaceae (vesiculate) undiff.",NA
+"Pinus","NISP","stomate",NA,"Vascular plants","TRSH","Pinus",NA
+"Unknown (pre-Quaternary)","NISP","pollen/spore","anachronic","Unidentified","UNID","Unknown (pre-Quaternary)",NA
+"Gymnocarpium-type","NISP","spore",NA,"Vascular plants","VACR","Gymnocarpium-type",NA
+"Picea indet.","NISP","pollen",NA,"Vascular plants","TRSH","Picea indet.",NA
+"Athyrium-type","NISP","spore",NA,"Vascular plants","VACR","Athyrium-type",NA
+"Clethra","NISP","pollen",NA,"Vascular plants","TRSH","Clethra",NA
+"cf. Arceuthobium","NISP","pollen",NA,"Vascular plants","TRSH","cf. Arceuthobium",NA
+"Picea undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Picea undiff.|pollen|NISP",NA
+"Picea undiff.","NISP","stomate",NA,"Vascular plants","TRSH","Picea undiff.|stomate|NISP",NA
+"cf. Cyatheaceae","NISP","spore",NA,"Vascular plants","VACR","cf. Cyatheaceae",NA
+"Magnolia","NISP","pollen",NA,"Vascular plants","TRSH","Magnolia",NA
+"Xyris","NISP","pollen",NA,"Vascular plants","UPHE","Xyris",NA
+"cf. Saxifraga oppositifolia","NISP","pollen",NA,"Vascular plants","UPHE","cf. Saxifraga oppositifolia",NA
+"Lycopodium obscurum-type","NISP","spore",NA,"Vascular plants","VACR","Lycopodium obscurum-type",NA
+"Picea glauca-type","NISP","stomate",NA,"Vascular plants","TRSH","Picea glauca-type",NA
+"Rhynchospora-type","NISP","pollen",NA,"Vascular plants","AQVP","Rhynchospora-type",NA
+"Ipomoea","NISP","pollen",NA,"Vascular plants","UPHE","Ipomoea",NA
+"Oxalis","NISP","pollen",NA,"Vascular plants","UPHE","Oxalis",NA
+"Xanthium-type","NISP","pollen",NA,"Vascular plants","UPHE","Xanthium-type",NA
+"Rubiaceae (pentacolpate)","NISP","pollen",NA,"Vascular plants","UPHE","Rubiaceae (pentacolpate)",NA
+"cf. Selaginella","NISP","spore",NA,"Vascular plants","VACR","cf. Selaginella",NA
+"Malvaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE","Malvaceae undiff.",NA
+"cf. Acalypha","NISP","pollen",NA,"Vascular plants","UPHE","cf. Acalypha",NA
+"Other plants","NISP","pollen",NA,"Plants undiff.","UNID",NA,NA
+"Pinus/Picea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rhus glabra-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Penthorum sedoides","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Sagina","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Sium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fabaceae cf. Oxytropis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Mitella-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Chenopodiaceae sensu stricto","NISP","pollen",NA,"Vascular plants","UPHE","Chenopodiaceae sensu stricto",NA
+"Alnus viridis subsp. crispa","NISP","pollen",NA,"Vascular plants","TRSH","Alnus viridis subsp. crispa",NA
+"Asteraceae","NISP","pollen",NA,"Vascular plants","UPHE","Asteraceae",NA
+"Cupressaceae/Taxaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH","Cupressaceae/Taxaceae undiff.",NA
+"Picea/Pinus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Spike","NISP","pollen",NA,"Laboratory analyses","LABO",NA,NA
+"Spike suspension","number/ml","concentration",NA,"Laboratory analyses","LABO",NA,NA
+"Spike","number","counted",NA,"Laboratory analyses","LABO",NA,NA
+"Spike suspension","grains/ml","concentration",NA,"Laboratory analyses","LABO",NA,NA
+"Sample quantity","number","counted",NA,"Laboratory analyses","LABO",NA,NA
+"Spike","ml","volume",NA,"Laboratory analyses","LABO",NA,NA
+"cf. Urtica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fraxinus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Plantago cf. P. major","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Populus-type","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
+"Unknown","NISP","pollen",NA,"Unidentified","UNID",NA,NA
+"cf. Iva annua","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Dennstaedtia","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Prunus serotina","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Plantago","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Polygonum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Acer cf. A. negundo","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Fraxinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Betula/Ostrya","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Bistorta vivipara","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Polygonum aviculare","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Castanea","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer (reticulate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer (rugulate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer (striate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Impatiens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Acer cf. A. spicatum","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Utricularia vulgaris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Celtis/Maclura-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ilex-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cornus canadensis-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Primula farinosa-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Myrica-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ilex/Nemopanthus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Osmunda regalis-type","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Mentha","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Unknown/Rare","NISP","pollen/spore",NA,"Plants undiff.","PLNT",NA,NA
+"cf. Linum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lycopodium cf. L. clavatum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Lonicera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Indeterminable","NISP","pollen",NA,"Unidentified","UNID",NA,NA
+"Linum cf. L. usitatissimum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Rumex cf. R. britannica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Rumex cf. R. mexicanus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Veronicastrum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Alnus cf. A. viridis subsp. crispa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Brassica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Poaceae cf. Zea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Trifolium cf. T. pratense","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Ranunculus trichophyllus-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Pinus subg. Pinus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus subg. Strobus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus banksiana/P. resinosa-type","NISP","pollen",NA,"Vascular plants","TRSH","Pinus banksiana/P. resinosa-type",NA
+"Caltha palustris","NISP","pollen",NA,"Vascular plants","AQVP","Caltha palustris",NA
+"cf. Gentiana","NISP","pollen",NA,"Vascular plants","UPHE","cf. Gentiana",NA
+"Indeterminable (triporate)","NISP","pollen/spore",NA,"Unidentified","UNID","Indeterminable (triporate)",NA
+"Lemna-type","NISP","pollen",NA,"Vascular plants","AQVP","Lemna-type",NA
+"Indeterminable undiff.","NISP","pollen",NA,"Unidentified","UNID","Indeterminable undiff.",NA
+"Microspheres","NISP","counted",NA,"Laboratory analyses","LABO","Microspheres",NA
+"cf. Medicago","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Polygonum (tricolporate)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Thalictrum undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Sinapis arvensis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Eudicotyledoneae (tricolporate, small)","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
+"Fabaceae tribe Psoraleeae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lathyrus-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Caryophyllaceae cf. Silene","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Sanguisorba-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Diervilla","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Dryopteris fragrans","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"cf. Thalictrum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Thalictrum confine-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Euphorbia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Veronicastrum virginicum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fabaceae cf. tribe Psoraleeae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Onoclea","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Polygonaceae (tricolporate)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cystopteris bulbifera","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Comptonia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Larix/Pseudotsuga","NISP","pollen",NA,"Vascular plants","TRSH","Larix/Pseudotsuga",NA
+"Lonicera-type","NISP","pollen",NA,"Vascular plants","TRSH","Lonicera-type",NA
+"Ceratophyllum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Chenopodium","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Menispermaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Planera aquatica","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Mitella","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Tilletia","NISP","spore",NA,"Fungi","FUNG",NA,NA
+"Osmundaceae undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Iris","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Scheuchzeria","NISP","pollen",NA,"Vascular plants","AQVP","Scheuchzeria",NA
+"Adiantum pedatum","NISP","spore",NA,"Vascular plants","VACR","Adiantum pedatum",NA
+"Prunus-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ranunculus aquatilis","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Typha angustifolia-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Coniferae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Suaeda","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Asteraceae (high spine)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Asteraceae (low spine)","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Maclura pomifera","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus (triporate)","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Ulmus americana","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Violaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Bidens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Potamogeton/Triglochin","NISP","pollen",NA,"Vascular plants","AQVP","Potamogeton/Triglochin",NA
+"Lycopodium suspension","grains/ml","concentration",NA,"Laboratory analyses","LABO","Lycopodium suspension|concentration|grains/ml",NA
+"Nyssa sylvatica","NISP","pollen",NA,"Vascular plants","TRSH","Nyssa sylvatica",NA
+"Helianthus","NISP","pollen",NA,"Vascular plants","UPHE","Helianthus",NA
+"Suaeda calceoliformis","NISP","pollen",NA,"Vascular plants","UPHE","Suaeda calceoliformis",NA
+"Zizania aquatica","NISP","pollen",NA,"Vascular plants","AQVP","Zizania aquatica",NA
+"cf. Botrychium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Rhamnaceae undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Arceuthobium pusillum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Unknown (trilete, psilate)","NISP","spore",NA,"Unidentified","UNID",NA,NA
+"cf. Taxus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Polygonum undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Botrychium undiff.","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Hudsonia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Morus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Cupressaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Parnassia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Linaria","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"cf. Platanus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Saxifraga oppositifolia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Spergularia-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Chrysosplenium-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Acorus calamus","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"cf. Lysimachia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Charcoal","number","fragment",NA,"Charcoal","CHAR",NA,NA
+"Caryophyllaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Rosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Veronica","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Toxicodendron radicans","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Rhus glabra","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Scrophularia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Mimulus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Rhus undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Anemone","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Maianthemum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cornus racemosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Viburnum undiff.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cornus alternifolia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Utricularia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Caprifoliaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Nymphaeaceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Vitaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Myrica/Comptonia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Aster-type","NISP","pollen",NA,"Vascular plants","UPHE","Aster-type",NA
+"Trifolium repens","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium repens",NA
+"Armeria","NISP","pollen",NA,"Vascular plants","UPHE","Armeria",NA
+"Rosa-type","NISP","pollen",NA,"Vascular plants","UPHE","Rosa-type",NA
+"Potamogeton natans","NISP","pollen",NA,"Vascular plants","AQVP","Potamogeton natans",NA
+"Anthemis-type","NISP","pollen",NA,"Vascular plants","UPHE","Anthemis-type",NA
+"Stuckenia cf. S. pectinata","NISP","pollen",NA,"Vascular plants","AQVP","Stuckenia cf. S. pectinata",NA
+"Plantago major/P. media","NISP","pollen",NA,"Vascular plants","UPHE","Plantago major/P. media",NA
+"Knautia","NISP","pollen",NA,"Vascular plants","UPHE","Knautia",NA
+"Huperzia","NISP","spore",NA,"Vascular plants","VACR","Huperzia",NA
+"Taraxacum-type","NISP","pollen",NA,"Vascular plants","UPHE","Taraxacum-type",NA
+"Moraceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Equisetum-type","NISP","spore",NA,"Vascular plants","VACR","Equisetum-type",NA
+"Typhaceae","NISP","pollen",NA,"Vascular plants","AQVP","Typhaceae",NA
+"Galium-type","NISP","pollen",NA,"Vascular plants","UPHE","Galium-type",NA
+"Muscari","NISP","pollen",NA,"Vascular plants","UPHE","Muscari",NA
+"Trapa","NISP","pollen",NA,"Vascular plants","AQVP","Trapa",NA
+"Chamaenerion latifolium","NISP","pollen",NA,"Vascular plants","UPHE","Chamaenerion latifolium",NA
+"Crataegus","NISP","pollen",NA,"Vascular plants","TRSH","Crataegus",NA
+"Hymenophyllaceae","NISP","spore",NA,"Vascular plants","VACR","Hymenophyllaceae",NA
+"Stratiotes","NISP","pollen",NA,"Vascular plants","AQVP","Stratiotes",NA
+"Primula","NISP","pollen",NA,"Vascular plants","UPHE","Primula",NA
+"Trifolium","NISP","pollen",NA,"Vascular plants","UPHE","Trifolium",NA
+"Listera","NISP","pollen",NA,"Vascular plants","UPHE","Listera",NA
+"Chrysosplenium","NISP","pollen",NA,"Vascular plants","UPHE","Chrysosplenium",NA
+"Polystichum","NISP","spore",NA,"Vascular plants","VACR","Polystichum",NA
+"Montia","NISP","pollen",NA,"Vascular plants","UPHE","Montia",NA
+"Rhinanthus","NISP","pollen",NA,"Vascular plants","UPHE","Rhinanthus",NA
+"Myriophyllum sibiricum","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Abies","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Acer","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Alnus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Amaranthaceae","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Artemisia","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Asteraceae undiff.","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Betula","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Carya","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Corylus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Cyperaceae","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Fraxinus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Juglans","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Leptosporangiatae","NISP digitized","spore",NA,"Vascular plants","VACR",NA,NA
+"Ostrya/Carpinus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pinus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Poaceae","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Potamogeton","NISP digitized","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Quercus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Salix","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Tilia","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Typha","NISP digitized","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Ulmus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Picea","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Larix","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Nuphar","NISP digitized","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Populus","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Elaeagnaceae","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Shepherdia canadensis","NISP digitized","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Thalictrum","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Saxifraga-type","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Saxifraga oppositifolia","NISP digitized","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Achillea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Carpinus","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Sporormiella","NISP","spore",NA,"Fungi","FUNG",NA,NA
+"Lycopus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Taraxacum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Meliola","NISP","spore",NA,"Fungi","FUNG",NA,NA
+"Myriophyllum-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Unknown (inaperturate, psilate)","NISP","pollen/spore",NA,"Unidentified","UNID",NA,NA
+"cf. Adiantum","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Cupressaceae/Taxaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Fraxinus quadrangulata/F. nigra-type","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Microspheres","grains/ml","counted",NA,"Laboratory analyses","LABO",NA,NA
+"Balsaminaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cannabaceae","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Maclura","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Pontederia","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Oxalidaceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Alismataceae","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Algae (type A)","NISP","cyst",NA,"Algae","ALGA",NA,NA
+"Algae (type B)","NISP","cyst",NA,"Algae","ALGA",NA,NA
+"Alternanthera","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Amorpha cf. A. canescens","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Arabis","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cactaceae","NISP","pollen",NA,"Vascular plants","SUCC",NA,NA
+"Celastrus scandens","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Hottonia palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"cf. Stratiotes","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
+"Cladosporium","NISP","spore",NA,"Fungi","FUNG",NA,NA
+"Dinoflagellata","NISP","hystrichosphere cyst",NA,"Dinoflagellates","DINO",NA,NA
+"Filipendula rubra","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Liliaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lilium philadelphicum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Lonicera hirsuta","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Lotus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Matteuccia/Onoclea","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Melilotus","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Nymphoides-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Papaveraceae","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Pediastrum boryanum","NISP","colony",NA,"Algae","ALGA",NA,NA
+"Pediastrum duplex","NISP","colony",NA,"Algae","ALGA",NA,NA
+"Pediastrum simplex","NISP","colony",NA,"Algae","ALGA",NA,NA
+"Pediastrum undiff.","NISP","colony",NA,"Algae","ALGA",NA,NA
+"Phlox pilosa","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Polypodiophyta (without perine)","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Polypodiophyta (with perine)","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Polypodium vulgare","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Potamogeton pectinatus-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Ranunculus sp.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Sambucus racemosa","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Tofieldia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Trifolium pratense-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Unknown (pre-Quaternary)","NISP","palynomorph",NA,"Unidentified","UNID",NA,NA
+"Algae (type C)","NISP","cyst",NA,"Algae","ALGA",NA,NA
+"Lonicera canadensis","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Potamogeton natans-type","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Araceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Bistorta officinalis-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Boraginaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Centaurea","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Cuscuta","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Hydrocharis","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Linum","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Prunella-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Scutellaria-type","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Viola palustris","NISP","pollen",NA,"Vascular plants","AQVP",NA,NA
+"Araceae cf. Calla","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Primulaceae undiff.","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Rhus sp.","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"Hydrodictyon","NISP","colony",NA,"Algae","ALGA",NA,NA
+"Algae undiff.","NISP","cyst (reticulate)",NA,"Algae","ALGA",NA,NA
+"Asplenium","NISP","spore",NA,"Vascular plants","VACR",NA,NA
+"Houstonia","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Robinia","NISP","pollen",NA,"Vascular plants","TRSH",NA,NA
+"cf. Hippuris","NISP","pollen",NA,"Vascular plants","SEED",NA,NA
+"cf. Adoxa moschatellina","NISP","pollen",NA,"Vascular plants","UPHE",NA,NA
+"Pteridophyta","NISP","spore",NA,"Vascular plants","VACR","Pteridophyta",NA

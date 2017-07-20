@@ -46,9 +46,15 @@ When we examine the Pre-Settlement data (PSD) we see that it is projected in a G
 We are going to extract the bounding box from the veg data and query Neotoma.  The `bbox_tran()` helper function is supplied in the `stepps` package to facilitate easy access to Neotoma's pollen data.
 
 ```{r, transformCoords, message=FALSE, warning=FALSE}
-veg_box <- bbox_tran(veg_mean, '~ x + y',
+pol_box <- bbox_tran(veg_mean, '~ x + y',
                              '+init=epsg:3175', 
                              '+init=epsg:4326')
+
+veg_box <- bbox_tran(veg_mean, '~ x + y',
+                             '+init=epsg:3175', 
+                             '+init=epsg:3175')
+
+reconst_grid <- build_grid(veg_box, resolution = 8000, proj = '+init=epsg:3175')
 ```
 
 ### Obtaining Pollen Data
@@ -56,7 +62,7 @@ veg_box <- bbox_tran(veg_mean, '~ x + y',
 We can then use the `neotoma` package's `get_dataset()` command to locate all pollen data within the bounding box of the vegetation data.  It is possible to access more pollen data with other parameters, but we assume here the user is only intereseted in the pollen with the highest degree of overlap.
 
 ```{r, getVisdataset, message=FALSE, warning=FALSE}
-datasets <- neotoma::get_dataset(loc = veg_box, datasettype = 'pollen')
+datasets <- neotoma::get_dataset(loc = pol_box, datasettype = 'pollen')
 
 neotoma::plot_leaflet(datasets)
 ```
@@ -113,9 +119,10 @@ To assign genera-level assignments to trees and shrubs that can be obtained from
 ```{r, echo = FALSE}
 pol_table <- readr::read_csv('data/pol_trans_edited.csv')
 
-knitr::kable(head(pol_table) %>% 
+knitr::kable(pol_table %>% 
                filter(ecological.group == "TRSH") %>% 
-               select(-variable.element, -variable.context, -alias), 
+               select(-variable.element, -variable.context, -alias) %>% 
+               head(), 
              row.names = FALSE)
 ```
 
@@ -123,7 +130,9 @@ So we've assigned "*Acer*" to the pollen morphotaxon "*Acer*", and also to "Acer
 
 ```{r}
 
-calib_trans <- translate_taxa(calib_dialect, pol_table ,id_cols = colnames(calib_dialect)[1:10])
+calib_trans <- translate_taxa(calib_dialect, 
+                              pol_table ,
+                              id_cols = colnames(calib_dialect)[1:10])
 
 ```
 
@@ -151,8 +160,14 @@ veg_trans <- translate_taxa(veg_mean, veg_table ,id_cols = colnames(veg_mean)[1:
 To run the proper model there are a number of elements that are specifically required by the model.  Some of these are relatively straightforward, for example, the STEPPS model requires the value $K$, for the number of taxa.  To simplify the process for the end user we have constructed the `prep_input()` function.  This internalizes many of the procedures and outputs a list that can be directly exported to STAN:
 
 ```{r}
-prep_input(veg = veg_trans, 
-           pollen = calib_trans, target_taxa = target_taxa)
+
+veg_table <- to_stepps_shape(veg_trans,   '~ x + y',      '+init=epsg:3175')
+pol_table <- to_stepps_shape(calib_trans, '~ long + lat', '+init=epsg:4326')
+
+prep_input(veg    = veg_table, 
+           pollen = pol_table, 
+           target_taxa = target_taxa,
+           grid   = reconst_grid)
 ```
 
 We need to make the specific objects:

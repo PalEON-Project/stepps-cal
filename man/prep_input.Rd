@@ -2,12 +2,12 @@
 % Please edit documentation in R/prep_input.R
 \name{prep_input}
 \alias{prep_input}
-\title{Title}
+\title{Preparing output for the STAN run of the STEPPS Model}
 \usage{
-prep_input(veg, pollen, target_taxa)
+prep_input(veg, pollen, target_taxa, grid, hood)
 }
 \arguments{
-\item{pollen}{}
+\item{target_taxa}{}
 }
 \value{
 A list with parameters:
@@ -26,5 +26,5 @@ A list with parameters:
 }
 }
 \description{
-Title
+Preparing output for the STAN run of the STEPPS Model
 }

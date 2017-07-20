@@ -1,7 +1,8 @@
-#' Title
+#' Preparing output for the STAN run of the STEPPS Model
 #'
 #' @param veg
 #' @param pollen
+#' @param target_taxa
 #'
 ##' @return A list with parameters:
 ##'  * K  - Number of taxa
@@ -16,26 +17,42 @@
 ##'  * N_pot - Number of potential contributing cells
 ##'  * d_pot - The actual contributing cells for each pollen sample
 ##' @md
+##'
+##' @importFrom sp spTransform
 ##' @export
 ##'
 ##' @examples
-prep_input <- function(veg, pollen, target_taxa) {
+prep_input <- function(veg, pollen, target_taxa, grid, hood) {
 
-  col_test <- all(na.omit(target_taxa) %in% colnames(veg)) &
-    all(target_taxa %in% colnames(pollen))
+  if(!class(veg) == 'SpatialPointsDataFrame') {
+    stop('veg data must be a SpatialPointsDataFrame, use `to_stepps_shape()`')
+  }
+
+  if(!class(pollen) == 'SpatialPointsDataFrame') {
+    stop('veg data must be a SpatialPointsDataFrame, use `to_stepps_shape()`')
+  }
+
+  veg    <- sp::spTransform(veg,    CRSobj = CRS(proj4string(grid)))
+  pollen <- sp::spTransform(pollen, CRSobj = CRS(proj4string(grid)))
+
+  col_test <- all(na.omit(target_taxa) %in% names(veg)) &
+    all(target_taxa %in% names(pollen))
 
   assertthat::assert_that(col_test,
                           msg = 'All defined taxa must be in both the pollen and vegetation data.')
 
   output_list <- list(K       = ncol(veg),
-                      N_cores = length(unique(pollen$site.name)),
+                      N_cores = nrow(pollen),
                       N_cells = nrow(veg),
-                      y       = analogue::tran(pollen[,target_taxa], 'proportion'),
-                      r       = analogue::tran(pollen[,target_taxa], 'proportion'))
+                      y       = analogue::tran(pollen@data[,target_taxa], 'proportion'),
+                      r       = analogue::tran(pollen@data[,target_taxa], 'proportion'))
 
-  # * idx_cores - The index of the veg cell for each core
+  num_grid <- setValues(grid, 1:ncell(grid))
+  output_list$idx_cores <- extract(num_grid, pollen)
+
   # * idx_hood - The indices of cells for each contributing neighborhood
-  # * d - distance matrix (spatial distance from cores to veg cells)
+  output_list$d        <- pointDistance(pollen, veg)
+  output_list$idx_hood <- output_list$d < hood
   # * N_pot - Number of potential contributing cells
   # * d_pot - The actual contributing cells for each pollen sample
 

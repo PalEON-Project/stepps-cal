@@ -4,7 +4,7 @@
 #' @param coord_fun The coordinate columns, as a string formula
 #' @param proj The data ection in `proj` format.
 #'
-#' @return
+#' @return A \code{SpatialPointsDataFrame}.
 #' @importFrom sp coordinates proj4string CRS
 #' @export
 #'

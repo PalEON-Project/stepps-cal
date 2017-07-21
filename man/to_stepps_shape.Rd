@@ -13,6 +13,9 @@ to_stepps_shape(x, coord_fun, proj)
 
 \item{proj}{The data ection in `proj` format.}
 }
+\value{
+A \code{SpatialPointsDataFrame}.
+}
 \description{
 Convert object to shape.
 }

@@ -4,10 +4,14 @@
 \alias{prep_input}
 \title{Preparing output for the STAN run of the STEPPS Model}
 \usage{
-prep_input(veg, pollen, target_taxa, grid, hood)
+prep_input(veg, pollen, target_taxa, grid, hood = 20000)
 }
 \arguments{
-\item{target_taxa}{}
+\item{veg}{A table of vegetation data, generally gridded.}
+
+\item{pollen}{A table of available pollen data.}
+
+\item{target_taxa}{The taxa to be reconstructed.  Must appear in both the vegetation and pollen data.}
 }
 \value{
 A list with parameters:

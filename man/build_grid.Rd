@@ -7,6 +7,8 @@
 build_grid(veg_box, resolution = 8000, proj = "+init=epsg:3175")
 }
 \arguments{
+\item{veg_box}{The bounding box for the vegetation data, as a vector with elements \code{c(W,S,N,E)}.}
+
 \item{proj}{}
 }
 \description{

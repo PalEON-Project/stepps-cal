@@ -7,7 +7,11 @@
 to_stepps_shape(x, coord_fun, proj)
 }
 \arguments{
-\item{proj}{}
+\item{x}{The data.frame to convert to a SpatialPointsDataFrame object}
+
+\item{coord_fun}{The coordinate columns, as a string formula}
+
+\item{proj}{The data ection in `proj` format.}
 }
 \description{
 Convert object to shape.

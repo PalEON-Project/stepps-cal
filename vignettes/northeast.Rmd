@@ -61,7 +61,7 @@ reconst_grid <- build_grid(veg_box, resolution = 8000, proj = '+init=epsg:3175')
 
 We can then use the `neotoma` package's `get_dataset()` command to locate all pollen data within the bounding box of the vegetation data.  It is possible to access more pollen data with other parameters, but we assume here the user is only intereseted in the pollen with the highest degree of overlap.
 
-```{r, getVisdataset, message=FALSE, warning=FALSE}
+```{r, getVisdataset, message=FALSE, warning=FALSE, eval=FALSE}
 datasets <- neotoma::get_dataset(loc = pol_box, datasettype = 'pollen')
 
 neotoma::plot_leaflet(datasets)
@@ -164,10 +164,10 @@ To run the proper model there are a number of elements that are specifically req
 veg_table <- to_stepps_shape(veg_trans,   '~ x + y',      '+init=epsg:3175')
 pol_table <- to_stepps_shape(calib_trans, '~ long + lat', '+init=epsg:4326')
 
-prep_input(veg    = veg_table, 
-           pollen = pol_table, 
-           target_taxa = target_taxa,
-           grid   = reconst_grid)
+aa <- prep_input(veg    = veg_table, 
+                 pollen = pol_table, 
+                 target_taxa = target_taxa,
+                 grid   = reconst_grid)
 ```
 
 We need to make the specific objects:

@@ -1,8 +1,8 @@
 #' Preparing output for the STAN run of the STEPPS Model
 #'
-#' @param veg
-#' @param pollen
-#' @param target_taxa
+#' @param veg A table of vegetation data, generally gridded.
+#' @param pollen A table of available pollen data.
+#' @param target_taxa The taxa to be reconstructed.  Must appear in both the vegetation and pollen data.
 #'
 ##' @return A list with parameters:
 ##'  * K  - Number of taxa
@@ -19,10 +19,11 @@
 ##' @md
 ##'
 ##' @importFrom sp spTransform
+##' @importFrom raster extract pointDistance ncell
 ##' @export
 ##'
 ##' @examples
-prep_input <- function(veg, pollen, target_taxa, grid, hood) {
+prep_input <- function(veg, pollen, target_taxa, grid, hood = 20000) {
 
   if(!class(veg) == 'SpatialPointsDataFrame') {
     stop('veg data must be a SpatialPointsDataFrame, use `to_stepps_shape()`')
@@ -47,7 +48,7 @@ prep_input <- function(veg, pollen, target_taxa, grid, hood) {
                       y       = analogue::tran(pollen@data[,target_taxa], 'proportion'),
                       r       = analogue::tran(pollen@data[,target_taxa], 'proportion'))
 
-  num_grid <- setValues(grid, 1:ncell(grid))
+  num_grid <- raster::setValues(grid, 1:ncell(grid))
   output_list$idx_cores <- extract(num_grid, pollen)
 
   # * idx_hood - The indices of cells for each contributing neighborhood

@@ -1,11 +1,12 @@
 #' Create the raster grid for the analysis.
 #'
 #' @importFrom raster raster
-#' @param veg_box
-#' @param resolution
-#' @param proj
+#' @param veg_box The bounding box for the vegetation data, as a vector with elements \code{c(W,S,N,E)}.
+#' @param resolution The grid resolution for the output raster, in the native output projection.
+#' @param proj A projection string using \code{proj4} standards.  Default is Gt. Lakes & St. Lawrence Albers: \code{'+init=epsg:3175'}.
 #'
-#' @return
+#' @importFrom raster raster
+#' @return A raster, returned from the \code{raster} package.
 #' @export
 #'
 #' @examples

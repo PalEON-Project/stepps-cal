@@ -1,5 +1,5 @@
 ---
-title: "Northeastern US Vegetation Calibration with STEPPS"
+title: "Upper Midwestern US Vegetation Calibration with STEPPS"
 author: "Simon Goring"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
@@ -131,7 +131,7 @@ So we've assigned "*Acer*" to the pollen morphotaxon "*Acer*", and also to "Acer
 ```{r}
 
 calib_trans <- translate_taxa(calib_dialect, 
-                              pol_table ,
+                              pol_table,
                               id_cols = colnames(calib_dialect)[1:10])
 
 ```

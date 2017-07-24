@@ -18,12 +18,14 @@
 ##'  * d_pot - The actual contributing cells for each pollen sample
 ##' @md
 ##'
-##' @importFrom sp spTransform
-##' @importFrom raster extract pointDistance ncell
+##' @importFrom sp spTransform CRS
+##' @importFrom raster extract pointDistance ncell xyFromCell
+##' @importFrom purrr map
+##' @importFrom plyr rbind.fill.matrix
 ##' @export
 ##'
 ##' @examples
-prep_input <- function(veg, pollen, target_taxa, grid, hood = 20000) {
+prep_input <- function(veg, pollen, target_taxa, grid, hood = 20000, dist_scale = 1000000) {
 
   if(!class(veg) == 'SpatialPointsDataFrame') {
     stop('veg data must be a SpatialPointsDataFrame, use `to_stepps_shape()`')
@@ -33,8 +35,8 @@ prep_input <- function(veg, pollen, target_taxa, grid, hood = 20000) {
     stop('veg data must be a SpatialPointsDataFrame, use `to_stepps_shape()`')
   }
 
-  veg    <- sp::spTransform(veg,    CRSobj = CRS(proj4string(grid)))
-  pollen <- sp::spTransform(pollen, CRSobj = CRS(proj4string(grid)))
+  veg    <- sp::spTransform(veg,    CRSobj = sp::CRS(proj4string(grid)))
+  pollen <- sp::spTransform(pollen, CRSobj = sp::CRS(proj4string(grid)))
 
   col_test <- all(na.omit(target_taxa) %in% names(veg)) &
     all(target_taxa %in% names(pollen))
@@ -47,15 +49,27 @@ prep_input <- function(veg, pollen, target_taxa, grid, hood = 20000) {
                       N_cells = nrow(veg),
                       y       = analogue::tran(pollen@data[,target_taxa], 'proportion'),
                       r       = analogue::tran(pollen@data[,target_taxa], 'proportion'),
-                      d       = pointDistance(pollen, veg))
+                      d       = raster::pointDistance(pollen, veg))
 
-  num_grid <- raster::setValues(grid, 1:ncell(grid))
+  num_grid <- raster::setValues(grid, 1:raster::ncell(grid))
 
   output_list$idx_cores <- extract(num_grid, pollen)
-  output_list$d        <- pointDistance(pollen, veg)
-  output_list$idx_hood <- output_list$d %>% map()
-  # * N_pot - Number of potential contributing cells
-  # * d_pot - The actual contributing cells for each pollen sample
+  output_list$d        <- raster::pointDistance(pollen, veg)
+  output_list$idx_hood <- plyr::rbind.fill.matrix(apply(output_list$d, 1,
+                                                        function(x) t(which(x < hood))))
+
+
+  # I'm still a little unclear on this, but I think this is generally right. . .
+  coords <- raster::xyFromCell(grid, 1:raster::ncell(grid))
+  d_pot <- raster::pointDistance(c(apply(coords, 2, mean)), coords, lonlat = FALSE) / dist_scale
+
+  idx_circ  = which(d_pot < 0.7)
+  coord_pot = coords[idx_circ, ]
+  d_pot     = d_pot[idx_circ]
+
+  output_list$d_pot <- unname(as.matrix(table(d_pot)))
+  output_list$N_pot <- nrow(output_list$d_pot)
+
 
   return(output_list)
 }

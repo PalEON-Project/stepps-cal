@@ -13,11 +13,14 @@
 #' @examples
 translate_taxa <- function(input_table, translation, id_cols) {
 
-    agg_fun <- paste0(paste0(id_cols, collapse = ' + '), '~ match')
+  agg_fun <- paste0(paste0(id_cols, collapse = ' + '), '~ match')
 
-    long <- input_table %>%
-    reshape2::melt(variable.name = 'target', value.name = 'values', id.vars = id_cols) %>%
-    inner_join(translation %>% filter(!is.na(match)), by = 'target') %>%
+  long <- input_table %>%
+    reshape2::melt(variable.name = 'target',
+                   value.name = 'values',
+                   id.vars = id_cols) %>%
+    inner_join(translation %>% filter(!is.na(match)),
+               by = 'target') %>%
     select(one_of(id_cols), match, values) %>%
     filter(!values == 0) %>%
     reshape2::dcast(formula(agg_fun),

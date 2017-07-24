@@ -4,12 +4,17 @@
 \alias{pull_timebins}
 \title{Get calibration pollen samples by time.}
 \usage{
-pull_timebins(x, calib_range = c(200, 400))
+pull_timebins(x, calib_range = c(200, 1000), aggregate = FALSE,
+  bins = NULL)
 }
 \arguments{
 \item{x}{A \code{download} or \code{download_list} object.}
 
 \item{calib_range}{The age ranges to extract.}
+
+\item{aggregate}{If \code{TRUE} then the function will aggregate by site using the time bins defined.}
+
+\item{bins}{A sequence of}
 }
 \value{
 a \code{data.frame}

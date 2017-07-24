@@ -46,14 +46,14 @@ prep_input <- function(veg, pollen, target_taxa, grid, hood = 20000) {
                       N_cores = nrow(pollen),
                       N_cells = nrow(veg),
                       y       = analogue::tran(pollen@data[,target_taxa], 'proportion'),
-                      r       = analogue::tran(pollen@data[,target_taxa], 'proportion'))
+                      r       = analogue::tran(pollen@data[,target_taxa], 'proportion'),
+                      d       = pointDistance(pollen, veg))
 
   num_grid <- raster::setValues(grid, 1:ncell(grid))
-  output_list$idx_cores <- extract(num_grid, pollen)
 
-  # * idx_hood - The indices of cells for each contributing neighborhood
+  output_list$idx_cores <- extract(num_grid, pollen)
   output_list$d        <- pointDistance(pollen, veg)
-  output_list$idx_hood <- output_list$d < hood
+  output_list$idx_hood <- output_list$d %>% map()
   # * N_pot - Number of potential contributing cells
   # * d_pot - The actual contributing cells for each pollen sample
 

@@ -4,7 +4,7 @@
 \alias{prep_input}
 \title{Preparing output for the STAN run of the STEPPS Model}
 \usage{
-prep_input(veg, pollen, target_taxa, grid, hood = 20000, dist_scale = 1e+06)
+prep_input(veg, pollen, target_taxa, grid, hood = 7e+05, dist_scale = 1e+06)
 }
 \arguments{
 \item{veg}{A table of vegetation data, generally gridded.}

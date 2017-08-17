@@ -72,7 +72,7 @@ This gives us an interactive map in R, with information about individual sites. 
 ### Spatial & Taxonomic Cleaning
 
 We need to download the pollen data, and do the taxonomic cleaning.
-sum(is.na(matches$neotoma))
+
 ```{r, downloadPollen, results = 'hide', message=FALSE, warning=FALSE, cache = TRUE}
 if(!'downloads.rds' %in% list.files('data/')) {
   downloads <- neotoma::get_download(datasets)
@@ -82,6 +82,7 @@ if(!'downloads.rds' %in% list.files('data/')) {
 }
 
 ```
+
 We want to get the samples in the right age bin.  This function extracts pollen data from the Neotoma `download` object and returns the results in a `data.frame`.  You can use your own `data.frame` if you aren't using Neotoma, but the subsequent functions expect certain column names, in particular: 
 
 ```{r, getTimebins, message=FALSE, warning=FALSE}
@@ -168,6 +169,7 @@ aa <- prep_input(veg    = veg_table,
                  pollen = pol_table, 
                  target_taxa = target_taxa,
                  grid   = reconst_grid)
+
 ```
 
 We need to make the specific objects:

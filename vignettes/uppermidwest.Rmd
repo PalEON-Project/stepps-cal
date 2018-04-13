@@ -89,16 +89,18 @@ We want to get the samples in the right age bin.  This function extracts pollen 
 calib_dialect <- pull_timebins(downloads, calib_range = c(150, 350), aggregate = TRUE)
 ```
 ```{r, echo = FALSE}
-knitr::kable(head(calib_dialect[!duplicated(calib_dialect$site.name),])[,1:10])
+head(calib_dialect[!duplicated(calib_dialect$site.name),])[,1:10] %>% 
+  select(-`dataset`) %>% 
+  knitr::kable()
 ```
 
-These 10 columns are important.  They indicate the age model type, which may or may not be critical for your predictions (see Dawson *et al*., *in prep*), they indicate site location and time period, and they provide links (through the `.id` and `dataset` fields) for functions in the `neotoma` package, to obtain more information about the underlying data.
+These 10 columns are important.  They indicate the age-model type, which may or may not be critical for your predictions (see Dawson *et al*., *in prep*), they indicate site location and time period, and they provide links (through the `.id` field) for functions in the `neotoma` package, to obtain more information about the underlying data.
 
 ### Taxonomic Standardization
 
-One of the most critical elements here is ensuring the the pollen and vegetation data represent comparable taxonomic units.  The pollen data contains `r ncol(calib_dialect) - 10` unique pollen morphtypes, while the vegetation includes `r ncol(veg_mean) - 4`.  While there an be a one-to-one relationship for some taxa, it's important to recognize that there is a hierarchy to both pollen and vegetation taxa that can be taken into account to help relate the two datasets.
+Ensuring that pollen and vegetation data represent comparable taxonomic units is one of the most critical elements. The pollen data contains `r ncol(calib_dialect) - 10` unique pollen morphtypes, while the vegetation includes `r ncol(veg_mean) - 4`.  While there an be a one-to-one relationship for some taxa, it's important to recognize that there is a hierarchy to both pollen and vegetation taxa that can be taken into account to help relate the two datasets.
 
-To align the records a user must create a translation table that can align vegetation and pollen.  
+To align the records a user must create a translation table that can align vegetation and pollen.
 
 ```{r, eval = FALSE}
 
@@ -107,7 +109,7 @@ generate_tables(downloads, output = 'data/pol_trans.csv')
 
 ```
 
-These tables need to be edited by hand to represent the taxa that the user intends to reconstruct.  For example, one might edit:
+These tables need to be edited by hand to represent the taxa that the user intends to reconstruct. For example, one might edit:
 
 ```{r, echo = FALSE}
 pol_table <- readr::read_csv('data/pol_trans.csv')
@@ -158,7 +160,7 @@ veg_trans <- translate_taxa(veg_mean, veg_table ,id_cols = colnames(veg_mean)[1:
 
 ```
 
-To run the proper model there are a number of elements that are specifically required by the model.  Some of these are relatively straightforward, for example, the STEPPS model requires the value $K$, for the number of taxa.  To simplify the process for the end user we have constructed the `prep_input()` function.  This internalizes many of the procedures and outputs a list that can be directly exported to STAN:
+To run the proper model there are a number of elements that are specifically required by the model.  Some of these are relatively straightforward, for example, the STEPPS model requires the value $K$, for the number of taxa.  To simplify the process for the end user we have constructed the `prep_input()` function. This internalizes many of the procedures and outputs a list that can be directly exported to STAN:
 
 ```{r}
 

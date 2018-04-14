@@ -8,8 +8,8 @@ This package is in development and is likely to undergo rapid, and, potentially 
 
 # Contributions
 
-Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
-
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).  By participating in this project you agree to abide by its terms.
+  
 ## Installation
 
 You can install stepps from github with:

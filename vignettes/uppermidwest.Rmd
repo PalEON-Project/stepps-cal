@@ -26,15 +26,24 @@ We will present here data from two sources.  Pollen data will be obtained from t
 ```{r, loadVegetation, results = 'hide', message=FALSE, warning=FALSE}
 library(stepps)
 library(dplyr)
+library(tidyr)
 library(DT)
-# Prep the veg data using the gist at: http://XXXXXXXXX
 
 veg_mean <- readr::read_csv('data/composition_v0.3.csv')
 
 ```
 
 ```{r, echo = FALSE, results='asis', message=FALSE, warning=FALSE}
-knitr::kable(veg_mean %>% select(-x, -y, -region, -water) %>% summary)
+veg_mean %>% 
+  gather(key = 'Taxon',
+         value = 'proportion',
+         gathercols = colnames(veg_mean)[5:ncol(veg_mean)]) %>% 
+  group_by(Taxon) %>% 
+  summarise( mean = round(mean(proportion[proportion > 0.01]), 2),
+              max = round(max(proportion[proportion > 0.01]), 2),
+            cells = round(sum(proportion > 0.01) / nrow(veg_mean), 2)) %>% 
+  DT::datatable(options = list(dom='t', pageLength=30),
+                colnames = c("Tree Taxa", "Mean", "Maximum", "Presence"))
 ```
 
 We see one of several things here.  There are `r ncol(veg_mean)` taxa, values sum to 1, and, it's posible to note, some of these taxa do not have direct, or clear, equivalents in the pollen data.
@@ -67,7 +76,9 @@ datasets <- neotoma::get_dataset(loc = pol_box, datasettype = 'pollen')
 neotoma::plot_leaflet(datasets)
 ```
 
-This gives us an interactive map in R, with information about individual sites.  If we were to download the site data we could further investigate the properties of the sites.
+<img src="leaflet_plot.png" width="60%" align="middle">
+
+This gives us an interactive map in R, with information about individual sites.  The map uses aggregate markers, which explains why points here are of different colors, regardless it is possible to see the utility of the bounding box in defining the area of interest for this query.  If we were to download the pollen data for each of these sites we could further investigate rates of change, and pollen proportions within this region.
 
 ### Spatial & Taxonomic Cleaning
 
@@ -111,22 +122,26 @@ generate_tables(downloads, output = 'data/pol_trans.csv')
 
 These tables need to be edited by hand to represent the taxa that the user intends to reconstruct. For example, one might edit:
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, results='hide', warning=FALSE}
 pol_table <- readr::read_csv('data/pol_trans.csv')
-knitr::kable(head(pol_table) %>% select(-variable.element, -variable.context, -alias), 
-             row.names = FALSE)
+```
+
+```{r echo = FALSE}
+
+pol_table %>% dplyr::select(-variable.element, -variable.context, -alias) %>% distinct %>% DT::datatable(options = list(pageLength=10))
+
 ```
 
 To assign genera-level assignments to trees and shrubs that can be obtained from the vegetation data as well:
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, message=FALSE, results='hide'}
+
 pol_table <- readr::read_csv('data/pol_trans_edited.csv')
 
-knitr::kable(pol_table %>% 
-               filter(ecological.group == "TRSH") %>% 
-               select(-variable.element, -variable.context, -alias) %>% 
-               head(), 
-             row.names = FALSE)
+pol_table %>% 
+  filter(ecological.group == "TRSH") %>% 
+  dplyr::select(-variable.element, -variable.context, -alias) %>% 
+  DT::datatable()
 ```
 
 So we've assigned "*Acer*" to the pollen morphotaxon "*Acer*", and also to "Acer negundo".  Now we need to transform the data so that the new table reflects the new assignments:
@@ -146,17 +161,20 @@ We do the same with the vegetation data, taking care to ensure that all the vege
 
 veg_table <- readr::read_csv('data/veg_trans.csv')
 
-knitr::kable(head(veg_table), row.names = FALSE)
+veg_table %>% DT::datatable()
 
 ```
 
 The STEPPS function requires that the taxon components of the vegetation and pollen data are equivalent.  We need the unique vector of all vegetation/taxa we're using as our targets:
 
-```{r, echo = FALSE, results='asis'}
+```{r, echo = FALSE, results='hide'}
+
 veg_table <- readr::read_csv('data/veg_trans_edited.csv')
 target_taxa <- na.omit(unique(veg_table$match))
 
-veg_trans <- translate_taxa(veg_mean, veg_table ,id_cols = colnames(veg_mean)[1:4])
+veg_trans <- translate_taxa(veg_mean, 
+                            veg_table,
+                            id_cols = colnames(veg_mean)[1:4])
 
 ```
 

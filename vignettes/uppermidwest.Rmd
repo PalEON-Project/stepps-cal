@@ -185,7 +185,7 @@ To run the proper model there are a number of elements that are specifically req
 veg_table <- to_stepps_shape(veg_trans,   '~ x + y',      '+init=epsg:3175')
 pol_table <- to_stepps_shape(calib_trans, '~ long + lat', '+init=epsg:4326')
 
-aa <- prep_input(veg    = veg_table, 
+stepps_input <- prep_input(veg    = veg_table, 
                  pollen = pol_table, 
                  target_taxa = target_taxa,
                  grid   = reconst_grid)
@@ -205,4 +205,3 @@ We need to make the specific objects:
  * d - distance matrix (spatial distance from cores to veg cells)
  * N_pot - Number of potential contributing cells
  * d_pot - The actual contributing cells for each pollen sample
- 

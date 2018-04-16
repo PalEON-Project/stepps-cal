@@ -24,7 +24,12 @@
 #' @importFrom plyr rbind.fill.matrix
 #' @export
 #'
-#' @examples
+#' @examples {
+#'    stepps_input <- prep_input(veg    = veg_table,
+#'                               pollen = pol_table,
+#'                               target_taxa = target_taxa,
+#'                               grid   = reconst_grid)
+#' }
 
 prep_input <- function(veg, pollen, target_taxa, grid, hood = 700000, dist_scale = 1000000) {
 

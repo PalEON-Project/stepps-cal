@@ -19,3 +19,15 @@ A raster, returned from the \code{raster} package.
 \description{
 Create the raster grid for the analysis.
 }
+\examples{
+  \dontrun{
+   veg_mean <- readr::read_csv('data/composition_v0.3.csv')
+   veg_box <- bbox_tran(veg_mean, '~ x + y',
+                        '+init=epsg:3175',
+                        '+init=epsg:3175')
+   reconst_grid <- build_grid(veg_box,
+                              resolution = 8000,
+                              proj = '+init=epsg:3175')
+  }
+
+}

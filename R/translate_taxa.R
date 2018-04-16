@@ -10,7 +10,11 @@
 #' @return A \code{data.frame} with indicator columns as identified in \code{id_cols} and once column for each of the unique taxa.
 #' @export
 #'
-#' @examples
+#' @examples {
+#' calib_trans <- translate_taxa(calib_dialect,
+#'                               pol_table,
+#'                               id_cols = colnames(calib_dialect)[1:10])
+#' }
 translate_taxa <- function(input_table, translation, id_cols) {
 
   agg_fun <- paste0(paste0(id_cols, collapse = ' + '), '~ match')

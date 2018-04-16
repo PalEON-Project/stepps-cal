@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: person("Simon", "Goring", email = "goring@wisc.edu", role = c("aut", "cre"))
 Description: Based on work from Dawson et al (2016), use Bayesian, spatio-temporal analysis to undertake reconstruction of paleovegetation at regional scales from a set of pollen records.  With a functional interface to the Neotoma Paleoecological Database.
 Depends: R (>= 3.3.0)
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: testthat,
@@ -13,4 +13,9 @@ Suggests: testthat,
 VignetteBuilder: knitr
 RoxygenNote: 6.0.1
 Imports: 
-    magrittr
+    magrittr,
+    dplyr,
+    plyr,
+    purrr,
+    raster,
+    sp

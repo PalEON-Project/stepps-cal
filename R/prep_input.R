@@ -97,5 +97,9 @@ prep_input <- function (veg, pollen, target_taxa, grid, hood =7e+05, dist_scale 
   output_list$N_hood <- ncol(output_list$idx_hood) - apply(output_list$idx_hood,1,function(x) sum(x==0)) - 1
   output_list$d <- t(d_cells)#t(output_list$d)
 
+  #rescaling distances
+  output_list$d <- output_list$d/dist_scale
+  output_list$d_pot[,1] <- output_list$d_pot[,1]/dist_scale 
+
   return(output_list)
 }

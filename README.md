@@ -1,4 +1,4 @@
-# stepps
+# stepps - Pollen based spatio-temporal paleo-vegetation reconstruction.
 
 [![Travis build status](https://travis-ci.org/PalEON-Project/stepps-cal.svg?branch=master)](https://travis-ci.org/PalEON-Project/stepps-cal) [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
@@ -9,15 +9,6 @@ This package is in development and is likely to undergo rapid, and, potentially 
 # Contributions
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).  By participating in this project you agree to abide by its terms.
-  
-## Installation
-
-You can install stepps from github with:
-
-``` r
-# install.packages("devtools")
-devtools::install_github("PalEON-Project/stepps-cal")
-```
 
 ## GitHub Management
 
@@ -33,3 +24,13 @@ $ git fetch upstream
 More information about fetching the upstream branch and then merging with your local files can be found in the [GitHub help for managing forks](https://help.github.com/articles/syncing-a-fork/).  This then brings your local `master` branch up to date with any changes you've made, and preserves your changes as part of the `git` workflow.
 
 3. Now you can push to your GitHub account (`git push`) and initiate a pull request from your fork. This is documented on the GitHub Help for [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+
+
+# Installation
+
+You can install stepps from github with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("PalEON-Project/stepps-cal")
+```

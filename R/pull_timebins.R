@@ -10,12 +10,14 @@
 #'
 pull_timebins <- function(x, calib_range = c(200,1000), aggregate = FALSE, bins = NULL){
 
+  age <- NULL # Used to avoid errors in the dplyr piping below.
+
   assertthat::assert_that('download_list' %in% class(x),
                           msg = "`pull_timebins()` requires a download_list object to operate.")
 
   if (calib_range[1] > calib_range[2]) {
     calib_range <- calib_range[2:1]
-    warning('Time bins were reversed.')
+    warning('Time bins were reversed so that the earliest age is listed first.')
   }
 
   full_dl <- neotoma::compile_downloads(x) %>%
@@ -23,7 +25,8 @@ pull_timebins <- function(x, calib_range = c(200,1000), aggregate = FALSE, bins 
 
   full_dl[is.na(full_dl)] <- 0
 
-  full_dl <- full_dl[,c(rep(TRUE, 10), colSums(full_dl[,11:ncol(full_dl)], na.rm = TRUE) > 0)]
+  full_dl <- full_dl[,c(rep(TRUE, 10),
+                        colSums(full_dl[,11:ncol(full_dl)], na.rm = TRUE) > 0)]
 
   if(aggregate == TRUE & is.null(bins)) {
 
@@ -38,7 +41,7 @@ pull_timebins <- function(x, calib_range = c(200,1000), aggregate = FALSE, bins 
     full_dl <- full_dl %>%
       group_by_at(vars(one_of(nsm_cols))) %>%
       summarise_at(vars(one_of(sum_cols)),
-                   .fun = sum, na.rm = TRUE)
+                   .funs = sum, na.rm = TRUE)
   }
 
   return(full_dl)

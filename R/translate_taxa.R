@@ -8,6 +8,9 @@
 #' @param id_cols The location columns, for example \code{c('x', 'y')}, representing the spatial coordinates for the data.
 #'
 #' @return A \code{data.frame} with indicator columns as identified in \code{id_cols} and once column for each of the unique taxa.
+#'
+#' @importFrom stats formula
+#' @importFrom reshape2 melt dcast
 #' @export
 #'
 #' @examples {
@@ -15,6 +18,7 @@
 #'                               pol_table,
 #'                               id_cols = colnames(calib_dialect)[1:10])
 #' }
+
 translate_taxa <- function(input_table, translation, id_cols) {
 
   agg_fun <- paste0(paste0(id_cols, collapse = ' + '), '~ match')
@@ -25,9 +29,9 @@ translate_taxa <- function(input_table, translation, id_cols) {
                    id.vars = id_cols) %>%
     inner_join(translation %>% filter(!is.na(match)),
                by = 'target') %>%
-    select(one_of(id_cols), match, values) %>%
-    filter(!values == 0) %>%
-    reshape2::dcast(formula(agg_fun),
+    select(one_of(id_cols), 'match', 'values') %>%
+    filter(!'values' == 0) %>%
+    reshape2::dcast(stats::formula(agg_fun),
                     fun.aggregate = sum,
                     value.var = 'values',
                     drop = TRUE)

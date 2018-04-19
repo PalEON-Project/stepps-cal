@@ -2,7 +2,7 @@
 % Please edit documentation in R/generate_tables.R
 \name{generate_tables}
 \alias{generate_tables}
-\title{Title}
+\title{Generate tables}
 \usage{
 generate_tables(taxa, output = NULL)
 }
@@ -12,13 +12,20 @@ generate_tables(taxa, output = NULL)
 \item{output}{A string representing the file path for export.  Can be NULL.}
 }
 \value{
-A \code{data.frame}.
+A \code{data.frame} with two columns: \describe{
+  \item{target}{The original pollen taxon to be translated}
+  \item{match}{The simplified taxon to be used in calibration}
+}
 }
 \description{
-Title
+This function is used to help support the generation of the taxon
+translation tables, by exporting a \code{download} or \code{download_list} file's
+taxon table.
 }
 \examples{
 {
+data(downloads)
+generate_tables(downloads, output = 'data/translation.csv')
 }
 
 }

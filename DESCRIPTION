@@ -1,5 +1,5 @@
 Package: stepps
-Title: Perform spatially explicit vegetation reconstruction from proxy pollen data
+Title: Spatially explicit vegetation reconstruction using proxy pollen data
 Version: 0.0.0.9000
 Authors@R: person("Simon", "Goring", email = "goring@wisc.edu", role = c("aut", "cre"))
 Description: Based on work from Dawson et al (2016), use Bayesian, spatio-temporal analysis to undertake reconstruction of paleovegetation at regional scales from a set of pollen records.  With a functional interface to the Neotoma Paleoecological Database.
@@ -11,7 +11,8 @@ Suggests: testthat,
     knitr,
     rmarkdown,
     DT,
-    readr
+    readr,
+    tidyr
 VignetteBuilder: knitr
 RoxygenNote: 6.0.1
 Imports: 
@@ -22,4 +23,7 @@ Imports:
     raster,
     sp,
     neotoma,
-    assertthat
+    assertthat,
+    fields,
+    reshape2,
+    analogue

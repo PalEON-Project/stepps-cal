@@ -10,6 +10,7 @@
 #' @return A \code{data.frame} with indicator columns as identified in \code{id_cols} and once column for each of the unique taxa.
 #'
 #' @importFrom stats formula
+#' @importFrom reshape2 melt dcast
 #' @export
 #'
 #' @examples {

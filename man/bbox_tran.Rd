@@ -9,10 +9,24 @@ bbox_tran(x, coord_formula = "~ x + y", from, to)
 \arguments{
 \item{x}{A \code{data.frame} or \code{matrix} with the vegetation data and its coordinates.}
 
-\item{from}{The proj4 string.}
+\item{coord_formula}{The formula, as a string}
 
-\item{formula}{The formula, as a string}
+\item{from}{The object \code{proj4} string (e.g., \code{+init=epsg:4121 +proj=longlat +ellps=GRS80}).}
+
+\item{to}{The target \code{proj4} projection string (e.g., \code{+init=epsg:3175}).}
+}
+\value{
+A \code{numeric} vector, of length 4.
 }
 \description{
 From a vegetation matrix with \code{x} and \code{y} columns (or \code{lat}/\code{long}), generate a bounding box to be used for the \code{loc} parameter in the \code{neotoma} function \code{get_dataset()}.
+}
+\examples{
+{
+  data(plss_vegetation)
+
+  pol_box <- bbox_tran(plss_vegetation, '~ x + y',
+    '+init=epsg:3175',
+    '+init=epsg:4326')
+}
 }

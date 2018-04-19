@@ -12,21 +12,26 @@ prep_input(veg, pollen, target_taxa, grid, hood = 7e+05, dist_scale = 1e+06)
 \item{pollen}{A table of available pollen data.}
 
 \item{target_taxa}{The taxa to be reconstructed.  Must appear in both the vegetation and pollen data.}
+
+\item{grid}{A data grid to be used for calibration of class \code{raster}.}
+
+\item{hood}{Distance (in units native to the grid) from which to estimate regional neighborhood for the pollen-vegetation calibration.  Default is \code{1e5}, assumed to be meters (100km).}
+
+\item{dist_scale}{Currently not implemented.}
 }
 \value{
-A list with parameters:
-\itemize{
-\item K  - Number of taxa
-\item N_cores - Number of cores
-\item N_cells - Number of cells in the veg data
-\item N_hood - Number of veg cells contributing to each pollen sample site
-\item y - Pollen counts (\emph{n} cores x \emph{p} taxa - a wide table)
-\item r - Veg proportions (same structure)
-\item idx_cores - The index of the veg cell for each core
-\item idx_hood - The indices of cells for each contributing neighborhood
-\item d - distance matrix (spatial distance from cores to veg cells)
-\item N_pot - Number of potential contributing cells
-\item d_pot - The actual contributing cells for each pollen sample
+A list with parameters: \describe{
+\item{K}{Number of taxa in the data.}
+\item{N_cores}{Number of sedimentary cores used in the analysis.}
+\item{N_cells}{Number of cells in the parent grid.}
+\item{N_hood}{Number of vegetation cells contributing to each pollen sample site.}
+\item{y}{Pollen counts, a matrix with \code{N_cores} rows and \code{K} columns.}
+\item{r}{Vegetation proportions, a matrix with \code{N_cells} rows and \code{K} columns.}
+\item{idx_cores}{The index for each sedimentary core, with respect to the vegetation grid.}
+\item{idx_hood}{The index of each neighbourhood cell for each core, with respect to the vegetation grid.}
+\item{d}{Distance matrix from each sedimentary core to each vegetation cell.}
+\item{N_pot}{The number of potentially contributing cells for each vegetation cell.}
+\item{d_pot}{The actual number of vegetation cells contributing to each pollen sample site.}
 }
 }
 \description{

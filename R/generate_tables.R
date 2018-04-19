@@ -4,15 +4,20 @@
 #' @param output A string representing the file path for export.  Can be NULL.
 #'
 #' @return A \code{data.frame}.
+#' @importFrom neotoma taxa
+#' @importFrom assertthat assert_that
 #' @export
 #'
-#' @examples
+#' @examples {
+#' }
 #'
 
 generate_tables <- function(taxa, output = NULL) {
 
   if (!any(c('download', 'download_list') %in% class(taxa))) {
-    assertthat::assert_that('data.frame' %in% class(taxa), msg = "taxa must be a neotoma download object or a data.frame.")
+    assertthat::assert_that('data.frame' %in% class(taxa),
+                            msg = "taxa must be a neotoma download object or a data.frame.")
+
     taxon <- data.frame(target = colnames(taxa), match = NA, stringsAsFactors = FALSE)
 
   } else {

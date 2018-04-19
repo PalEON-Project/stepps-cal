@@ -19,6 +19,17 @@ You can install stepps from github with:
 devtools::install_github("PalEON-Project/stepps-cal")
 ```
 
-## Example
+## GitHub Management
 
-There is currently no functionality implemented with STEPPS.
+Best working practice for contributing to this package is as follows:
+
+1. Fork the repository to your own account
+2. Changes to existing files should be done *in those files*.  New files may be added, but do not duplicate existing functions.  Commit often.  If you are working on a fork, be sure to try syncing with the original branch:
+
+```
+$ git fetch upstream
+```
+
+More information about fetching the upstream branch and then merging with your local files can be found in the [GitHub help for managing forks](https://help.github.com/articles/syncing-a-fork/).  This then brings your local `master` branch up to date with any changes you've made, and preserves your changes as part of the `git` workflow.
+
+3. Now you can push to your GitHub account (`git push`) and initiate a pull request from your fork. This is documented on the GitHub Help for [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).

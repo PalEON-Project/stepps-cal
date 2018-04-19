@@ -7,6 +7,7 @@ vignette: >
   %\VignetteIndexEntry{Vignette Title}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
+  %\VignetteDepends{dplyr, tidyr, DT, readr, neotoma}
 ---
 
 ## High Level Introduction
@@ -28,38 +29,39 @@ library(stepps)
 library(dplyr)
 library(tidyr)
 library(DT)
+library(readr)
 
 data(plss_vegetation)
 
 ```
 
 ```{r, echo = FALSE, results='asis', message=FALSE, warning=FALSE}
-veg_mean %>% 
+plss_vegetation %>% 
   gather(key = 'Taxon',
          value = 'proportion',
-         gathercols = colnames(veg_mean)[5:ncol(veg_mean)]) %>% 
+         gathercols = colnames(plss_vegetation)[5:ncol(plss_vegetation)]) %>% 
   group_by(Taxon) %>% 
   summarise( mean = round(mean(proportion[proportion > 0.01]), 2),
               max = round(max(proportion[proportion > 0.01]), 2),
-            cells = round(sum(proportion > 0.01) / nrow(veg_mean), 2)) %>% 
+            cells = round(sum(proportion > 0.01) / nrow(plss_vegetation), 2)) %>% 
   DT::datatable(options = list(dom='t', pageLength=30),
                 colnames = c("Tree Taxa", "Mean", "Maximum", "Presence"))
 ```
 
-We see one of several things here.  There are `r ncol(veg_mean)` taxa, values sum to 1, and, it's posible to note, some of these taxa do not have direct, or clear, equivalents in the pollen data.
+We see one of several things here.  There are `r ncol(plss_vegetation)` taxa, values sum to 1, and, it's posible to note, some of these taxa do not have direct, or clear, equivalents in the pollen data.
 
 ### Choosing a bounding box
 
-When we examine the Pre-Settlement data (PSD) we see that it is projected in a Great Lake St Laurence Albers projection (`+init=espg:3175`).  Neotoma data can be queried using a bounding box, but only using lat/long coordinates with WGS84 datum (`+init=epsg:4376`).  
+When we examine the Pre-Settlement data (PSD) we see that it is projected in a Great Lake St Lawrence Albers projection (`+init=espg:3175`).  Neotoma data can be queried using a bounding box, but only using lat/long coordinates with WGS84 datum (`+init=epsg:4376`).  
 
 We are going to extract the bounding box from the veg data and query Neotoma.  The `bbox_tran()` helper function is supplied in the `stepps` package to facilitate easy access to Neotoma's pollen data.
 
 ```{r, transformCoords, message=FALSE, warning=FALSE}
-pol_box <- bbox_tran(veg_mean, '~ x + y',
+pol_box <- bbox_tran(plss_vegetation, '~ x + y',
                              '+init=epsg:3175', 
                              '+init=epsg:4326')
 
-veg_box <- bbox_tran(veg_mean, '~ x + y',
+veg_box <- bbox_tran(plss_vegetation, '~ x + y',
                              '+init=epsg:3175', 
                              '+init=epsg:3175')
 
@@ -84,14 +86,19 @@ This gives us an interactive map in R, with information about individual sites. 
 
 We need to download the pollen data, and do the taxonomic cleaning.
 
-```{r, downloadPollen, results = 'hide', message=FALSE, warning=FALSE, cache = TRUE}
-if(!'downloads.rds' %in% list.files('data/')) {
-  downloads <- neotoma::get_download(datasets)
-  saveRDS(downloads, 'data/downloads.rds')
-} else {
-  downloads <- readRDS('data/downloads.rds')
-}
+```{r, downloadPollen_real, results = 'hide', message=FALSE, warning=FALSE, echo = FALSE}
 
+# downloads <- neotoma::get_download(datasets)
+
+# This was added as a data object, based on data accessed April, 19, 2018
+# --sjg
+
+data(downloads)
+
+```
+
+```{r, }
+downloads <- neotoma::get_download(datasets)
 ```
 
 We want to get the samples in the right age bin.  This function extracts pollen data from the Neotoma `download` object and returns the results in a `data.frame`.  You can use your own `data.frame` if you aren't using Neotoma, but the subsequent functions expect certain column names, in particular: 
@@ -109,13 +116,13 @@ These 10 columns are important.  They indicate the age-model type, which may or 
 
 ### Taxonomic Standardization
 
-Ensuring that pollen and vegetation data represent comparable taxonomic units is one of the most critical elements. The pollen data contains `r ncol(calib_dialect) - 10` unique pollen morphtypes, while the vegetation includes `r ncol(veg_mean) - 4`.  While there an be a one-to-one relationship for some taxa, it's important to recognize that there is a hierarchy to both pollen and vegetation taxa that can be taken into account to help relate the two datasets.
+Ensuring that pollen and vegetation data represent comparable taxonomic units is one of the most critical elements. The pollen data contains `r ncol(calib_dialect) - 10` unique pollen morphtypes, while the vegetation includes `r ncol(plss_vegetation) - 4`.  While there an be a one-to-one relationship for some taxa, it's important to recognize that there is a hierarchy to both pollen and vegetation taxa that can be taken into account to help relate the two datasets.
 
 To align the records a user must create a translation table that can align vegetation and pollen.
 
 ```{r, eval = FALSE}
 
-generate_tables(veg_mean,  output = 'data/veg_trans.csv')
+generate_tables(plss_vegetation,  output = 'data/veg_trans.csv')
 generate_tables(downloads, output = 'data/pol_trans.csv')
 
 ```
@@ -172,9 +179,9 @@ The STEPPS function requires that the taxon components of the vegetation and pol
 veg_table <- readr::read_csv('data/veg_trans_edited.csv')
 target_taxa <- na.omit(unique(veg_table$match))
 
-veg_trans <- translate_taxa(veg_mean, 
+veg_trans <- translate_taxa(plss_vegetation, 
                             veg_table,
-                            id_cols = colnames(veg_mean)[1:4])
+                            id_cols = colnames(plss_vegetation)[1:4])
 
 ```
 

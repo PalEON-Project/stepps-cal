@@ -24,7 +24,9 @@ Gridded Public Land Survey Vegetation Composition
 \references{
 {
   Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. 2016. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. PLoS One. 11: e0151935.
+
   Paciorek C, Goring SJ, Thurman A, Cogbill C, Williams J, Mladenoff D, Peters JA, Zhu J, McLachlan JS. 2016. Statistically-estimated tree composition for the northeastern United States at Euro-American settlement. PLoS ONE. 11: e0150087.
+
   Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. 2016. Quantifying pollen-vegetation relationships to reconstruct ancient forests using 19th-century forest composition and pollen data. Quaternary Science Reviews. 137:156-175.
 }
 }

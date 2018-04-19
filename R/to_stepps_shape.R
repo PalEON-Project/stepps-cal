@@ -6,6 +6,7 @@
 #'
 #' @return A \code{SpatialPointsDataFrame}.
 #' @importFrom sp coordinates proj4string CRS
+#' @importFrom stats formula
 #' @export
 #'
 #' @examples \dontrun{
@@ -17,7 +18,7 @@
 #'                              '+init=epsg:3175')
 #' }
 to_stepps_shape <- function(x, coord_fun, proj) {
-  sp::coordinates(x) <- formula(coord_fun)
+  sp::coordinates(x) <- stats::formula(coord_fun)
   sp::proj4string(x) <- sp::CRS(proj)
   return(x)
 }

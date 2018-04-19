@@ -7,7 +7,7 @@ vignette: >
   %\VignetteIndexEntry{Vignette Title}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
-  %\VignetteDepends{dplyr, tidyr, DT, readr, neotoma}
+  %\VignetteDepends{dplyr, DT, readr, neotoma, tidyr}
 ---
 
 ## High Level Introduction
@@ -27,9 +27,9 @@ We will present here data from two sources.  Pollen data will be obtained from t
 ```{r, loadVegetation, results = 'hide', message=FALSE, warning=FALSE}
 library(stepps)
 library(dplyr)
-library(tidyr)
 library(DT)
 library(readr)
+library(tidyr)
 
 data(plss_vegetation)
 
@@ -97,7 +97,11 @@ data(downloads)
 
 ```
 
-```{r, }
+```{r, fakeDownload, eval=FALSE}
+# This may take a long time if run, the package has included the response
+# as a data object to be called using:
+# data(downloads)
+
 downloads <- neotoma::get_download(datasets)
 ```
 

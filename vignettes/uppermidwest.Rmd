@@ -122,24 +122,30 @@ These 10 columns are important.  They indicate the age-model type, which may or 
 
 Ensuring that pollen and vegetation data represent comparable taxonomic units is one of the most critical elements. The pollen data contains `r ncol(calib_dialect) - 10` unique pollen morphtypes, while the vegetation includes `r ncol(plss_vegetation) - 4`.  While there an be a one-to-one relationship for some taxa, it's important to recognize that there is a hierarchy to both pollen and vegetation taxa that can be taken into account to help relate the two datasets.
 
-To align the records a user must create a translation table that can align vegetation and pollen.
+To align the records a user must create a translation table that can align vegetation and pollen.  In this case we will put it into a `data/translation` folder, so we can keep track of things.  Make sure this folder exists in your directory structure if you wish to put files there.
 
 ```{r, eval = FALSE}
 
-generate_tables(plss_vegetation,  output = 'data/veg_trans.csv')
-generate_tables(downloads, output = 'data/pol_trans.csv')
+generate_tables(plss_vegetation, output = 'output/veg_trans.csv')
+generate_tables(downloads, output = 'ouput/pol_trans.csv')
 
 ```
 
 These tables need to be edited by hand to represent the taxa that the user intends to reconstruct. For example, one might edit:
 
-```{r, echo = FALSE, results='hide', warning=FALSE}
-pol_table <- readr::read_csv('data/pol_trans.csv')
+```{r, echo = FALSE, results='hide', warning = FALSE}
+
+pol_table <- system.file("extdata", "pol_trans.csv", package="stepps") %>% 
+ readr::read_csv()
+
 ```
 
 ```{r echo = FALSE}
 
-pol_table %>% dplyr::select(-variable.element, -variable.context, -alias) %>% distinct %>% DT::datatable(options = list(pageLength=10))
+pol_table %>% 
+  dplyr::select(-variable.element, -variable.context, -alias) %>% 
+  distinct %>% 
+  DT::datatable(options = list(pageLength=10))
 
 ```
 
@@ -147,7 +153,8 @@ To assign genera-level assignments to trees and shrubs that can be obtained from
 
 ```{r, echo = FALSE, message=FALSE, results='hide'}
 
-pol_table <- readr::read_csv('data/pol_trans_edited.csv')
+pol_table <- system.file("extdata", "pol_trans_edited.csv", package="stepps") %>% 
+  readr::read_csv()
 
 pol_table %>% 
   filter(ecological.group == "TRSH") %>% 
@@ -157,7 +164,7 @@ pol_table %>%
 
 So we've assigned "*Acer*" to the pollen morphotaxon "*Acer*", and also to "Acer negundo".  Now we need to transform the data so that the new table reflects the new assignments:
 
-```{r}
+```{r pol_translate, warning=FALSE}
 
 calib_trans <- translate_taxa(calib_dialect, 
                               pol_table,
@@ -165,12 +172,12 @@ calib_trans <- translate_taxa(calib_dialect,
 
 ```
 
-
 We do the same with the vegetation data, taking care to ensure that all the vegetation assignments are provided in the pollen data, and *vice versa*.  Similarly, the vegetation data can be edited 
 
-```{r}
+```{r veg_translate, warning=FALSE}
 
-veg_table <- readr::read_csv('data/veg_trans.csv')
+veg_table <- system.file("extdata", "veg_trans.csv", package="stepps") %>% 
+  readr::read_csv()
 
 veg_table %>% DT::datatable()
 
@@ -180,7 +187,9 @@ The STEPPS function requires that the taxon components of the vegetation and pol
 
 ```{r, echo = FALSE, results='hide'}
 
-veg_table <- readr::read_csv('data/veg_trans_edited.csv')
+veg_table <- system.file("extdata", "veg_trans_edited.csv", package="stepps") %>% 
+  readr::read_csv()
+
 target_taxa <- na.omit(unique(veg_table$match))
 
 veg_trans <- translate_taxa(plss_vegetation, 

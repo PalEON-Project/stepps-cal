@@ -29,7 +29,7 @@ library(dplyr)
 library(tidyr)
 library(DT)
 
-veg_mean <- readr::read_csv('data/composition_v0.3.csv')
+data(plss_vegetation)
 
 ```
 

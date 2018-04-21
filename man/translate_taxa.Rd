@@ -22,8 +22,10 @@ translate the target composition data to the new taxonomic groupings.
 }
 \examples{
 {
-calib_trans <- translate_taxa(calib_dialect,
-                              pol_table,
-                              id_cols = colnames(calib_dialect)[1:10])
+  \dontrun{
+    calib_trans <- translate_taxa(calib_dialect,
+                                  pol_table,
+                                  id_cols = colnames(calib_dialect)[1:10])
+  }
 }
 }

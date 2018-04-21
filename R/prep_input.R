@@ -33,10 +33,12 @@
 #' @export
 #'
 #' @examples {
+#'   \dontrun{
 #'    stepps_input <- prep_input(veg    = veg_table,
 #'                               pollen = pol_table,
 #'                               target_taxa = target_taxa,
 #'                               grid   = reconst_grid)
+#'   }
 #' }
 
 prep_input <- function (veg, pollen, target_taxa, grid, hood =7e+05, dist_scale = 1e+06) {
@@ -106,7 +108,7 @@ prep_input <- function (veg, pollen, target_taxa, grid, hood =7e+05, dist_scale 
 
   #rescaling distances
   output_list$d <- output_list$d/dist_scale
-  output_list$d_pot[,1] <- output_list$d_pot[,1]/dist_scale 
+  output_list$d_pot[,1] <- output_list$d_pot[,1]/dist_scale
 
   return(output_list)
 }

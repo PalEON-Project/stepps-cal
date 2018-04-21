@@ -39,9 +39,11 @@ Preparing output for the STAN run of the STEPPS Model
 }
 \examples{
 {
+  \dontrun{
    stepps_input <- prep_input(veg    = veg_table,
                               pollen = pol_table,
                               target_taxa = target_taxa,
                               grid   = reconst_grid)
+  }
 }
 }

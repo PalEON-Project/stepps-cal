@@ -25,7 +25,10 @@ taxon table.
 \examples{
 {
 data(downloads)
-generate_tables(downloads, output = 'data/translation.csv')
+
+# For the sake of package checks we'll use a temporary file.
+
+generate_tables(downloads, output = tempfile())
 }
 
 }

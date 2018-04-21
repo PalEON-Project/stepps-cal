@@ -9,8 +9,7 @@
 #' @return A raster, returned from the \code{raster} package.
 #' @export
 #'
-#' @examples
-#'   \dontrun{
+#' @examples {
 #'    data(plss_vegetation)
 #'
 #'    veg_box <- bbox_tran(plss_vegetation, '~ x + y',
@@ -20,7 +19,7 @@
 #'    reconst_grid <- build_grid(veg_box,
 #'                               resolution = 8000,
 #'                               proj = '+init=epsg:3175')
-#'   }
+#' }
 #'
 
 build_grid <- function(veg_box, resolution = 8000, proj = '+init=epsg:3175') {

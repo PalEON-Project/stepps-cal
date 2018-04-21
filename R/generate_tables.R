@@ -18,7 +18,10 @@
 #'
 #' @examples {
 #' data(downloads)
-#' generate_tables(downloads, output = 'data/translation.csv')
+#'
+#' # For the sake of package checks we'll use a temporary file.
+#'
+#' generate_tables(downloads, output = tempfile())
 #' }
 #'
 
@@ -32,7 +35,7 @@ generate_tables <- function(taxa, output = NULL) {
 
   } else {
 
-    taxon <- data.frame(neotoma::taxa(taxa),
+    taxon <- data.frame(suppressWarnings(neotoma::taxa(taxa)),
                         match = NA,
                         stringsAsFactors = FALSE)
     colnames(taxon)[1] <- 'target'
